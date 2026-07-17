@@ -1,0 +1,164 @@
+[
+  {
+    "id": "bldnd-001",
+    "imageRef": "bldnd-001_bl00_f01.png",
+    "label": "Hematopoiesis",
+    "category": "Histology & Cell Biology"
+  },
+  {
+    "id": "bldnd-002",
+    "imageRef": "bldnd-002_bl00_f02.png",
+    "label": "Fanconi anemia",
+    "category": "Pathology"
+  },
+  {
+    "id": "bldnd-003",
+    "imageRef": "bldnd-003_bl01_f01.png",
+    "label": "Methylmalonyl-CoA pathway",
+    "category": "Physiology & Mechanisms"
+  },
+  {
+    "id": "bldnd-004",
+    "imageRef": "bldnd-004_bl01_f03.png",
+    "label": "Hypersegmented neutrophil",
+    "category": "Lab & Diagnostics"
+  },
+  {
+    "id": "bldnd-005",
+    "imageRef": "bldnd-005_bl02_f04.png",
+    "label": "Neutrophil maturation",
+    "category": "Histology & Cell Biology"
+  },
+  {
+    "id": "bldnd-006",
+    "imageRef": "bldnd-006_bl02_f06.png",
+    "label": "Platelets",
+    "category": "Lab & Diagnostics"
+  },
+  {
+    "id": "bldnd-007",
+    "imageRef": "bldnd-007_bl03_f02.png",
+    "label": "Warfarin",
+    "category": "Pharmacology"
+  },
+  {
+    "id": "bldnd-008",
+    "imageRef": "bldnd-008_bl03_f03.png",
+    "label": "Skin necrosis",
+    "category": "Pathology"
+  },
+  {
+    "id": "bldnd-009",
+    "imageRef": "bldnd-009_bl03_f04.png",
+    "label": "Heparin",
+    "category": "Pharmacology"
+  },
+  {
+    "id": "bldnd-010",
+    "imageRef": "bldnd-010_bl04_f01.png",
+    "label": "Petechiae",
+    "category": "Pathology"
+  },
+  {
+    "id": "bldnd-011",
+    "imageRef": "bldnd-011_bl04_f03.png",
+    "label": "ADAMTS13",
+    "category": "Physiology & Mechanisms"
+  },
+  {
+    "id": "bldnd-012",
+    "imageRef": "bldnd-012_bl04_f04.png",
+    "label": "TTP",
+    "category": "Pathology"
+  },
+  {
+    "id": "bldnd-013",
+    "imageRef": "bldnd-013_bl04_f05.png",
+    "label": "Schistocytes",
+    "category": "Lab & Diagnostics"
+  },
+  {
+    "id": "bldnd-014",
+    "imageRef": "bldnd-014_bl04_f07.png",
+    "label": "Schistocyte",
+    "category": "Physiology & Mechanisms"
+  },
+  {
+    "id": "bldnd-015",
+    "imageRef": "bldnd-015_bl05_f02.png",
+    "label": "Neutrophilia",
+    "category": "Pathology"
+  },
+  {
+    "id": "bldnd-016",
+    "imageRef": "bldnd-016_bl05_f05.png",
+    "label": "Toxic granulation",
+    "category": "Pathology"
+  },
+  {
+    "id": "bldnd-017",
+    "imageRef": "bldnd-017_bl05_f06.png",
+    "label": "Cytoplasmic vacuolization",
+    "category": "Pathology"
+  },
+  {
+    "id": "bldnd-018",
+    "imageRef": "bldnd-018_bl05_f08.png",
+    "label": "Reactive lymphocytes",
+    "category": "Histology & Cell Biology"
+  },
+  {
+    "id": "bldnd-019",
+    "imageRef": "bldnd-019_bl05_f09.png",
+    "label": "Reactive lymphocytosis",
+    "category": "Pathology"
+  },
+  {
+    "id": "bldnd-020",
+    "imageRef": "bldnd-020_bl05_f10.png",
+    "label": "Downey cell",
+    "category": "Pathology"
+  },
+  {
+    "id": "bldnd-021",
+    "imageRef": "bldnd-021_bl06_f01.png",
+    "label": "Cell cycle",
+    "category": "Pharmacology"
+  },
+  {
+    "id": "bldnd-022",
+    "imageRef": "bldnd-022_bl07_f01.png",
+    "label": "Patch-stage MF",
+    "category": "Pathology"
+  },
+  {
+    "id": "bldnd-023",
+    "imageRef": "bldnd-023_bl07_f03.png",
+    "label": "Plaque-stage MF",
+    "category": "Pathology"
+  },
+  {
+    "id": "bldnd-024",
+    "imageRef": "bldnd-024_bl07_f04.png",
+    "label": "Tumor-stage MF",
+    "category": "Pathology"
+  },
+  {
+    "id": "bldnd-025",
+    "imageRef": "bldnd-025_bl07_f05.png",
+    "label": "Sezary syndrome",
+    "category": "Pathology"
+  },
+  {
+    "id": "bldnd-026",
+    "imageRef": "bldnd-026_bl07_f06.png",
+    "label": "Cerebriform cell",
+    "category": "Lab & Diagnostics"
+  },
+  {
+    "id": "bldnd-027",
+    "imageRef": "bldnd-027_bl07_f07.png",
+    "label": "Pautrier microabscess",
+    "category": "Pathology"
+  }
+]
