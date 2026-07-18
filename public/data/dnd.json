@@ -5,6 +5,7 @@
     "label": "Hematopoiesis",
     "category": "Physiology & Mechanisms",
     "brick": "Aplastic Anemia",
+    "order": 10,
     "explanation": "Aplastic anemia is caused by loss of myeloid hematopoietic stem cells, so RBCs, platelets, granulocytes, and monocytes all fall (pancytopenia). Lymphoid progenitors arise from a separate branch of this scheme and are relatively preserved, so lymphocyte counts remain near normal on a CBC."
   },
   {
@@ -13,6 +14,7 @@
     "label": "Fanconi anemia",
     "category": "Pathology",
     "brick": "Aplastic Anemia",
+    "order": 10,
     "explanation": "Cafe-au-lait spots with skin hypopigmentation, short stature, and radial/thumb anomalies accompanying progressive pancytopenia are classic for Fanconi anemia, an autosomal recessive DNA-repair defect that causes inherited bone marrow failure."
   },
   {
@@ -21,6 +23,7 @@
     "label": "Spherocytes",
     "category": "Physiology & Mechanisms",
     "brick": "Hereditary Spherocytosis",
+    "order": 11,
     "explanation": "The rounded cells on the right (spherocytes) lack the membrane excess that allows normal biconcave cells to squeeze through splenic sinusoids, so they are trapped and destroyed there, producing extravascular hemolysis. Their oxygen-carrying capacity remains essentially normal."
   },
   {
@@ -29,6 +32,7 @@
     "label": "Osmotic fragility test",
     "category": "Lab & Diagnostics",
     "brick": "Hereditary Spherocytosis",
+    "order": 11,
     "explanation": "This is the osmotic fragility test. Normal biconcave cells have excess membrane and can swell to absorb water; spherocytes have little membrane reserve, so even modest water influx in a hypotonic solution causes them to lyse, giving increased osmotic fragility."
   },
   {
@@ -37,6 +41,7 @@
     "label": "Elliptocytes",
     "category": "Lab & Diagnostics",
     "brick": "Hereditary Spherocytosis",
+    "order": 11,
     "explanation": "Large numbers of elliptical (oval, cigar-shaped) red cells on a peripheral smear are the hallmark of hereditary elliptocytosis, an autosomal dominant defect commonly involving spectrin."
   },
   {
@@ -45,6 +50,7 @@
     "label": "Pyropoikilocytosis",
     "category": "Lab & Diagnostics",
     "brick": "Hereditary Spherocytosis",
+    "order": 11,
     "explanation": "Hereditary pyropoikilocytosis, caused by two hereditary elliptocytosis mutations, produces striking red-cell fragmentation and bizarre poikilocytes that resemble the burned red cells seen after severe thermal injury."
   },
   {
@@ -53,6 +59,7 @@
     "label": "HbS polymerization",
     "category": "Physiology & Mechanisms",
     "brick": "Sickle Cell Disease",
+    "order": 12,
     "explanation": "In the taut, deoxygenated state the exposed hydrophobic valine residues cause HbS molecules to line up into rigid polymers. These insoluble strands physically contort the RBC into a sickle shape."
   },
   {
@@ -61,6 +68,7 @@
     "label": "Vaso-occlusion",
     "category": "Pathology",
     "brick": "Sickle Cell Disease",
+    "order": 12,
     "explanation": "Sickled cells lose flexibility and become trapped in capillaries, blocking blood flow. The resulting ischemia and infarction of downstream tissue is termed vaso-occlusive disease."
   },
   {
@@ -69,6 +77,7 @@
     "label": "Howell-Jolly bodies",
     "category": "Lab & Diagnostics",
     "brick": "Sickle Cell Disease",
+    "order": 12,
     "explanation": "Howell-Jolly bodies are nuclear DNA remnants normally removed by a functioning spleen. Their presence signals the absent or non-functioning spleen (functional asplenia) seen in sickle cell disease."
   },
   {
@@ -77,6 +86,7 @@
     "label": "Hemoglobin electrophoresis",
     "category": "Lab & Diagnostics",
     "brick": "Sickle Cell Disease",
+    "order": 12,
     "explanation": "The glutamate-to-valine substitution removes a negative charge, so HbS migrates less far toward the anode than HbA in an electric field. Electrophoresis therefore separates hemoglobins mainly by charge."
   },
   {
@@ -85,6 +95,7 @@
     "label": "Glutathione pathway",
     "category": "Physiology & Mechanisms",
     "brick": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+    "order": 13,
     "explanation": "The diagram is the hexose monophosphate (pentose phosphate) shunt step catalyzed by G6PD, which regenerates NADPH. NADPH keeps glutathione reduced so it can detoxify peroxides; when G6PD is deficient, reduced glutathione falls and RBCs cannot neutralize oxidative stress, leading to hemolysis."
   },
   {
@@ -93,6 +104,7 @@
     "label": "Heinz bodies",
     "category": "Pathology",
     "brick": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+    "order": 13,
     "explanation": "The inclusions are Heinz bodies, clumps of oxidatively denatured hemoglobin that attach to the inner RBC membrane. They form during oxidative stress in G6PD deficiency and are best seen with supravital stains."
   },
   {
@@ -101,6 +113,7 @@
     "label": "Bite cells",
     "category": "Pathology",
     "brick": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies",
+    "order": 13,
     "explanation": "These are bite cells. As RBCs with Heinz bodies pass through the spleen, macrophages engulf and remove the portion of membrane to which the Heinz body is attached, leaving a bitten-out contour rather than destroying the whole cell."
   },
   {
@@ -109,6 +122,7 @@
     "label": "Spherocytes",
     "category": "Histology & Cell Biology",
     "brick": "Autoimmune Hemolytic Anemias",
+    "order": 14,
     "explanation": "Macrophages remove chunks of the antibody-coated membrane, leaving cells that round up. Lacking spare membrane, they cannot contort through tiny capillaries and splenic cords and are destroyed."
   },
   {
@@ -117,6 +131,7 @@
     "label": "IgM",
     "category": "Physiology & Mechanisms",
     "brick": "Autoimmune Hemolytic Anemias",
+    "order": 14,
     "explanation": "As a pentamer with ten binding sites, this antibody cross-links several red cells at once, forming the agglutinates typical of cold AHA when blood cools."
   },
   {
@@ -125,6 +140,7 @@
     "label": "Methylmalonyl pathway",
     "category": "Physiology & Mechanisms",
     "brick": "Megaloblastic Anemia",
+    "order": 15,
     "explanation": "The reaction converting methylmalonyl-CoA to succinyl-CoA is catalyzed by methylmalonyl-CoA mutase, which uses vitamin B12 as a cofactor. In B12 deficiency this step is blocked, methylmalonyl-CoA accumulates, and elevated serum methylmalonic acid results, impairing myelin synthesis and producing neurologic deficits."
   },
   {
@@ -133,6 +149,7 @@
     "label": "Macro-ovalocyte",
     "category": "Lab & Diagnostics",
     "brick": "Megaloblastic Anemia",
+    "order": 15,
     "explanation": "The arrowed cell is a macro-ovalocyte, an enlarged oval red cell characteristic of megaloblastic anemia. It results from impaired DNA synthesis in erythroid precursors, causing nuclear-cytoplasmic asynchrony and abnormally large red cells."
   },
   {
@@ -141,6 +158,7 @@
     "label": "Fibrin clot",
     "category": "Physiology & Mechanisms",
     "brick": "Hemostasis",
+    "order": 17,
     "explanation": "The figure depicts secondary hemostasis: tissue factor drives thrombin generation, which converts fibrinogen to fibrin. The fibrin mesh weaves through and stabilizes the fragile platelet plug into a durable clot."
   },
   {
@@ -149,6 +167,7 @@
     "label": "Calcium & Vitamin K",
     "category": "Physiology & Mechanisms",
     "brick": "Hemostasis",
+    "order": 17,
     "explanation": "The figure marks calcium (Ca2+) participating in the intrinsic, extrinsic, and common pathways. Chelating agents like EDTA and citrate bind free calcium, so its removal blocks the cascade at multiple steps and keeps collected blood liquid."
   },
   {
@@ -157,6 +176,7 @@
     "label": "Anticoagulant control",
     "category": "Physiology & Mechanisms",
     "brick": "Hemostasis",
+    "order": 17,
     "explanation": "The diagram shows TFPI, activated Protein C, and antithrombin turning off the cascade at specific steps. These anticoagulant mechanisms restrain clotting to the site of injury and shut it down when no longer needed; clot breakdown itself is a separate fibrinolytic process."
   },
   {
@@ -165,6 +185,7 @@
     "label": "Hemarthrosis",
     "category": "Pathology",
     "brick": "Hemostasis",
+    "order": 17,
     "explanation": "Hemarthrosis, spontaneous bleeding into joints, is characteristic of the hemophilias (Factor VIII or IX deficiency). Because synovial spaces have low tissue factor levels, they depend on the intrinsic pathway, so intrinsic-factor deficiencies produce joint bleeding with little or no trauma."
   },
   {
@@ -173,6 +194,7 @@
     "label": "ABO blood types",
     "category": "Physiology & Mechanisms",
     "brick": "Transfusion Medicine",
+    "order": 18,
     "explanation": "Every red cell, including type O cells that lack A and B sugars, expresses the H antigen precursor. Enzymes add A or B sugars onto the H substrate to form the A and B antigens; type O cells leave the H antigen unmodified."
   },
   {
@@ -181,6 +203,7 @@
     "label": "HDN",
     "category": "Physiology & Mechanisms",
     "brick": "Transfusion Medicine",
+    "order": 18,
     "explanation": "Initial sensitization produces IgM, which is too large to cross the placenta. On re-exposure the mother makes IgG anti-Rh antibodies, which do cross the placenta and hemolyze fetal Rh-positive red cells, causing hemolytic disease of the newborn."
   },
   {
@@ -189,6 +212,7 @@
     "label": "Blood typing",
     "category": "Lab & Diagnostics",
     "brick": "Transfusion Medicine",
+    "order": 18,
     "explanation": "Naturally occurring anti-A and anti-B antibodies are pentameric IgM. Its ten antigen-binding sites let it bridge antigens on many adjacent red cells at once, producing the macroscopic agglutination read as a positive result."
   },
   {
@@ -197,6 +221,7 @@
     "label": "Cross-match",
     "category": "Lab & Diagnostics",
     "brick": "Transfusion Medicine",
+    "order": 18,
     "explanation": "Agglutination or hemolysis of donor cells means the recipient has antibodies against antigens on the donor red cells. This positive cross-match indicates incompatibility, so that unit must not be transfused."
   },
   {
@@ -205,6 +230,7 @@
     "label": "Hemarthrosis",
     "category": "Pathology",
     "brick": "Hemophilia",
+    "order": 19,
     "explanation": "Repeated spontaneous bleeding into weight-bearing joints such as the knees, ankles, and elbows (hemarthrosis) is a hallmark of hemophilia and, over time, produces chronic joint swelling, pain, and deformity."
   },
   {
@@ -213,6 +239,7 @@
     "label": "Coagulation cascade",
     "category": "Physiology & Mechanisms",
     "brick": "Hemophilia",
+    "order": 19,
     "explanation": "Factors VIII and IX act in the intrinsic arm of the cascade, which is measured by the activated partial thromboplastin time (aPTT). Their deficiency therefore prolongs the aPTT while leaving the extrinsic-pathway-dependent PT normal."
   },
   {
@@ -221,6 +248,7 @@
     "label": "X-linked inheritance",
     "category": "Physiology & Mechanisms",
     "brick": "Hemophilia",
+    "order": 19,
     "explanation": "Hemophilia A and B are X-linked recessive disorders. Sons of a carrier mother have a 50% chance of being affected, and daughters have a 50% chance of being carriers, which is why the disease predominantly affects males."
   },
   {
@@ -229,6 +257,7 @@
     "label": "Neutrophil maturation",
     "category": "Histology & Cell Biology",
     "brick": "Hematopoiesis",
+    "order": 1,
     "explanation": "Neutrophil maturation proceeds myeloblast -> promyelocyte -> myelocyte -> metamyelocyte -> band -> segmented neutrophil, during which the initially round nucleus indents and then segments into the multilobed nucleus of the mature neutrophil."
   },
   {
@@ -237,6 +266,7 @@
     "label": "Platelets",
     "category": "Lab & Diagnostics",
     "brick": "Hematopoiesis",
+    "order": 1,
     "explanation": "Platelets are small (1-3 microns) anucleate cytoplasmic fragments shed from megakaryocytes, appearing as tiny purple bodies between erythrocytes on a smear. They lack a nucleus, unlike lymphocytes, and are separate cells rather than inclusions like Howell-Jolly bodies."
   },
   {
@@ -245,6 +275,7 @@
     "label": "Inheritance pattern",
     "category": "Physiology & Mechanisms",
     "brick": "von Willebrand Disease",
+    "order": 20,
     "explanation": "The pedigree shows an affected parent transmitting the trait to roughly half of the children of either sex, with no skipping of generations and no sex predominance, which is the pattern of autosomal dominant inheritance. Most cases of von Willebrand disease follow this pattern, although rare autosomal recessive (e.g., type 3) forms exist."
   },
   {
@@ -253,6 +284,7 @@
     "label": "Livedo reticularis",
     "category": "Pathology",
     "brick": "Antiphospholipid Antibody Syndrome",
+    "order": 22,
     "explanation": "The mottled, net-like discoloration is livedo reticularis, a characteristic skin manifestation of antiphospholipid antibody syndrome. It results from obstruction of small superficial capillaries by microthrombi, reflecting the prothrombotic state that also causes DVT, PE, stroke, and recurrent pregnancy loss."
   },
   {
@@ -261,6 +293,7 @@
     "label": "Coagulation cascade",
     "category": "Physiology & Mechanisms",
     "brick": "Genetic Thrombotic Disorders",
+    "order": 23,
     "explanation": "Activated protein C, using protein S as a cofactor, proteolytically inactivates factors Va and VIIIa to switch off the common pathway. Factor V Leiden resists this cleavage, and protein C or S deficiency removes this brake, both causing hypercoagulability. Antithrombin instead inhibits thrombin and factor Xa."
   },
   {
@@ -269,6 +302,7 @@
     "label": "Skin necrosis",
     "category": "Pathology",
     "brick": "Genetic Thrombotic Disorders",
+    "order": 23,
     "explanation": "Warfarin-induced skin necrosis occurs because protein C (a vitamin K-dependent factor with a short half-life) falls faster than the procoagulant factors after warfarin is started, producing a transient hypercoagulable state with microvascular thrombosis. It is characteristically seen in patients with underlying protein C deficiency; protein S deficiency rarely causes it."
   },
   {
@@ -277,6 +311,7 @@
     "label": "Warfarin targets",
     "category": "Pharmacology",
     "brick": "Thrombotic Disorders: Foundations and Frameworks",
+    "order": 24,
     "explanation": "Warfarin inhibits vitamin K epoxide reductase, blocking gamma-carboxylation of the vitamin K-dependent factors II, VII, IX, and X and the regulatory proteins C and S, which are exactly the elements highlighted."
   },
   {
@@ -285,6 +320,7 @@
     "label": "Warfarin skin necrosis",
     "category": "Pathology",
     "brick": "Thrombotic Disorders: Foundations and Frameworks",
+    "order": 24,
     "explanation": "Warfarin-induced skin necrosis results from the short half-lives of the anticoagulant proteins C and S, which fall first and create a transient hypercoagulable state that thromboses small vessels and causes skin to die."
   },
   {
@@ -293,6 +329,7 @@
     "label": "Heparin mechanism",
     "category": "Pharmacology",
     "brick": "Thrombotic Disorders: Foundations and Frameworks",
+    "order": 24,
     "explanation": "Heparin works indirectly by activating endogenous antithrombin; the activated antithrombin then inhibits clotting factors Xa and IIa (thrombin) in the common pathway."
   },
   {
@@ -301,6 +338,7 @@
     "label": "Blood clot",
     "category": "Physiology & Mechanisms",
     "brick": "Hereditary Platelet Disorders",
+    "order": 25,
     "explanation": "The image depicts a hemostatic clot plugging a vessel. Clot formation begins with platelet adhesion and aggregation at the site of injury, which then triggers the fibrin mesh that stabilizes the clot."
   },
   {
@@ -309,6 +347,7 @@
     "label": "Petechiae",
     "category": "Pathology",
     "brick": "Hereditary Platelet Disorders",
+    "order": 25,
     "explanation": "Petechiae, purpura, and ecchymoses on the skin are mucocutaneous bleeding, characteristic of platelet (primary hemostasis) disorders. Deep tissue and joint bleeding instead point to clotting factor deficiencies such as hemophilia."
   },
   {
@@ -317,6 +356,7 @@
     "label": "Petechiae and purpura",
     "category": "Pathology",
     "brick": "Thrombocytopenia",
+    "order": 26,
     "explanation": "The nonblanching red-purple macules are petechiae and purpura, caused by extravasation of blood from small vessels into the skin due to insufficient platelets. Blanching lesions like telangiectasias are due to vessel dilation, not bleeding."
   },
   {
@@ -325,6 +365,7 @@
     "label": "Megakaryocytes",
     "category": "Histology & Cell Biology",
     "brick": "Thrombocytopenia",
+    "order": 26,
     "explanation": "The large cells are megakaryocytes. Platelets are produced when megakaryocytes in the bone marrow break down, releasing platelets into the blood stream; reduced megakaryocyte activity leads to decreased platelet production."
   },
   {
@@ -333,6 +374,7 @@
     "label": "Platelet clumping",
     "category": "Lab & Diagnostics",
     "brick": "Thrombocytopenia",
+    "order": 26,
     "explanation": "Platelet clumping (agglutination) causes automated analyzers to undercount platelets, producing pseudothrombocytopenia. Redrawing in a citrate tube gives an accurate count; this must be excluded before working up true thrombocytopenia."
   },
   {
@@ -341,6 +383,7 @@
     "label": "Schistocytes",
     "category": "Lab & Diagnostics",
     "brick": "Thrombocytopenia",
+    "order": 26,
     "explanation": "The fragmented red cells are schistocytes, which imply microangiopathic hemolytic anemia (MAHA) such as TTP, HUS, or DIC, where red cells are sheared as they pass through microthrombi in small vessels."
   },
   {
@@ -349,6 +392,7 @@
     "label": "Purpura",
     "category": "Pathology",
     "brick": "Immune Thrombocytopenia",
+    "order": 27,
     "explanation": "The small pinpoint lesions are petechiae and the larger flat purple lesions are purpura/bruising. In ITP the platelet count falls so low that spontaneous bleeding from small dermal vessels leaks into the skin. There is no vessel occlusion, clotting-factor defect, vasculitis, or scurvy; the abnormality is purely a quantitative platelet deficiency."
   },
   {
@@ -357,6 +401,7 @@
     "label": "ITP pathophysiology",
     "category": "Physiology & Mechanisms",
     "brick": "Immune Thrombocytopenia",
+    "order": 27,
     "explanation": "The diagram shows opsonization of platelets by IgG and their destruction by macrophages via Fc receptors in the spleen. Any transfused platelets are opsonized by the same circulating antibody and destroyed just as fast as the patient's own, so transfusion gives only a fleeting rise and is reserved for severe, actively bleeding patients."
   },
   {
@@ -365,6 +410,7 @@
     "label": "Giant platelets",
     "category": "Histology & Cell Biology",
     "brick": "Platelet Assays",
+    "order": 28,
     "explanation": "Morphology assessment on a blood smear can reveal hereditary platelet disorders such as those producing abnormally large (giant) platelets. The arrows here indicate giant platelets among normal red cells, an abnormality detectable only by manual microscopic review."
   },
   {
@@ -373,6 +419,7 @@
     "label": "Platelet receptors",
     "category": "Physiology & Mechanisms",
     "brick": "Platelet Assays",
+    "order": 28,
     "explanation": "GPIb is the platelet receptor that binds von Willebrand factor to mediate initial adhesion. In Bernard-Soulier syndrome platelets lack normal GPIb, so they cannot bind vWF and fail to aggregate in response to ristocetin despite normal responses to other agonists."
   },
   {
@@ -381,6 +428,7 @@
     "label": "Aggregation curves",
     "category": "Lab & Diagnostics",
     "brick": "Platelet Assays",
+    "order": 28,
     "explanation": "An isolated lack of response to ristocetin with preserved responses to ADP, adrenaline, and collagen points to a problem in the vWF-GPIb axis, seen in both von Willebrand disease (deficient/abnormal vWF) and Bernard-Soulier syndrome (deficient GPIb receptor)."
   },
   {
@@ -389,6 +437,7 @@
     "label": "Petechiae",
     "category": "Pathology",
     "brick": "Thrombotic Microangiopathies",
+    "order": 29,
     "explanation": "The petechiae and purpura pictured result from low platelet counts (consumed in microthrombi), which cause bleeding into the skin and oozing from small vessels."
   },
   {
@@ -397,6 +446,7 @@
     "label": "ADAMTS13",
     "category": "Physiology & Mechanisms",
     "brick": "Thrombotic Microangiopathies",
+    "order": 29,
     "explanation": "The enzyme shown normally cleaves ultra-large vWF multimers; its deficiency leaves these sticky multimers uncleaved, causing platelet-rich microthrombi characteristic of TTP."
   },
   {
@@ -405,6 +455,7 @@
     "label": "vWF thrombi",
     "category": "Physiology & Mechanisms",
     "brick": "Thrombotic Microangiopathies",
+    "order": 29,
     "explanation": "The platelet-vWF thrombi mechanically fragment passing erythrocytes, producing the microangiopathic hemolytic anemia seen in TTP."
   },
   {
@@ -413,6 +464,7 @@
     "label": "Schistocytes",
     "category": "Lab & Diagnostics",
     "brick": "Thrombotic Microangiopathies",
+    "order": 29,
     "explanation": "These cells never appear in normal or artifactual smears; their presence indicates mechanical red-cell fragmentation from intravascular microthrombi, i.e., MAHA."
   },
   {
@@ -421,6 +473,7 @@
     "label": "Schistocytes",
     "category": "Lab & Diagnostics",
     "brick": "Thrombotic Microangiopathies",
+    "order": 29,
     "explanation": "Helmet cells and triangulocytes are morphologic subtypes of schistocytes, formed when red cells are cut passing through fibrin/platelet microthrombi in small vessels."
   },
   {
@@ -429,6 +482,7 @@
     "label": "Schistocyte formation",
     "category": "Physiology & Mechanisms",
     "brick": "Thrombotic Microangiopathies",
+    "order": 29,
     "explanation": "The thrombus acts like a blade, shearing intact erythrocytes into fragmented cells; this intravascular mechanical hemolysis defines microangiopathic hemolytic anemia."
   },
   {
@@ -437,6 +491,7 @@
     "label": "Pentose phosphate pathway",
     "category": "Physiology & Mechanisms",
     "brick": "RBC Metabolism",
+    "order": 2,
     "explanation": "In the pentose phosphate pathway, glucose-6-phosphate dehydrogenase (G6PD) generates NADPH, which regenerates reduced glutathione (GSH) via glutathione reductase. GSH is then used by glutathione peroxidase to neutralize peroxides and other reactive oxygen species, protecting the RBC from oxidative damage and hemolysis."
   },
   {
@@ -445,6 +500,7 @@
     "label": "Chocolate-brown blood",
     "category": "Lab & Diagnostics",
     "brick": "RBC Metabolism",
+    "order": 2,
     "explanation": "Methemoglobin contains ferric (Fe3+) iron that cannot bind oxygen and imparts a characteristic chocolate-brown color to blood. This hallmark discoloration can be visible with methemoglobin levels as low as ~15% and is unresponsive to supplemental oxygen."
   },
   {
@@ -453,6 +509,7 @@
     "label": "Methemoglobin reduction",
     "category": "Physiology & Mechanisms",
     "brick": "RBC Metabolism",
+    "order": 2,
     "explanation": "Methylene blue is reduced to leukomethylene blue by NADPH-methemoglobin reductase, using NADPH supplied by G6PD in the pentose phosphate pathway; leukomethylene blue then reduces metHb. Because this route depends on NADPH, methylene blue is ineffective and relatively contraindicated in G6PD-deficient patients. Under normal conditions cytochrome b5 reductase performs the majority of metHb reduction."
   },
   {
@@ -461,6 +518,7 @@
     "label": "Hematopoiesis",
     "category": "Physiology & Mechanisms",
     "brick": "Hematopoietic Neoplasms: Foundations and Frameworks",
+    "order": 30,
     "explanation": "The single precursor at the apex is the hematopoietic stem cell, which resides in the bone marrow. Early differentiation into both the myeloid and lymphoid lineages occurs there before mature cells are released into the blood."
   },
   {
@@ -469,6 +527,7 @@
     "label": "WHO classification",
     "category": "Pathology",
     "brick": "Hematopoietic Neoplasms: Foundations and Frameworks",
+    "order": 30,
     "explanation": "The WHO system first separates neoplasms by the cell of origin, distinguishing those arising from the myeloid stem cell line from those arising from the lymphoid line. Subsequent branches then subclassify within each group."
   },
   {
@@ -477,6 +536,7 @@
     "label": "Reed-Sternberg cell",
     "category": "Pathology",
     "brick": "Hematopoietic Neoplasms: Foundations and Frameworks",
+    "order": 30,
     "explanation": "The binucleate 'owl-eye' cell is a Reed-Sternberg cell, the defining feature of Hodgkin lymphoma. Although derived from B cells, these cells have lost their characteristic B-cell expression pattern, which is why Hodgkin lymphoma is classified separately from the B-cell neoplasms."
   },
   {
@@ -485,6 +545,7 @@
     "label": "FFPE blocks",
     "category": "Lab & Diagnostics",
     "brick": "Hematopoietic Neoplasms: Foundations and Frameworks",
+    "order": 30,
     "explanation": "These are formalin-fixed, paraffin-embedded (FFPE) blocks. The paraffin provides a firm medium that supports the fixed tissue so a microtome can slice it into thin sections for staining and microscopy. FFPE blocks also preserve morphology and can be stored for years."
   },
   {
@@ -493,6 +554,7 @@
     "label": "Immunohistochemistry",
     "category": "Lab & Diagnostics",
     "brick": "Hematopoietic Neoplasms: Foundations and Frameworks",
+    "order": 30,
     "explanation": "This is an immunohistochemical (IHC) stain: a labeled antibody binds its target antigen, and a chromogen deposits brown color wherever the antigen is present. Brown-positive nuclei therefore express the specific protein being tested, which helps classify the tumor."
   },
   {
@@ -501,6 +563,7 @@
     "label": "FISH",
     "category": "Lab & Diagnostics",
     "brick": "Hematopoietic Neoplasms: Foundations and Frameworks",
+    "order": 30,
     "explanation": "This is fluorescence in situ hybridization (FISH). Each probe signal marks one copy of the targeted chromosome; three signals instead of two means an extra copy is present (trisomy). Because FISH uses specific probes, you must know which chromosome to interrogate."
   },
   {
@@ -509,6 +572,7 @@
     "label": "Log-cell kill",
     "category": "Physiology & Mechanisms",
     "brick": "Principles of Chemotherapy",
+    "order": 31,
     "explanation": "The plot depicts the log-cell kill hypothesis: because chemotherapy follows first-order kinetics, each cycle destroys a fixed proportion of remaining cells, so tumor burden falls logarithmically and multiple cycles are required to reach a clinically undetectable level."
   },
   {
@@ -517,6 +581,7 @@
     "label": "Fractional cell kill",
     "category": "Physiology & Mechanisms",
     "brick": "Principles of Chemotherapy",
+    "order": 31,
     "explanation": "Because a fixed fraction is killed each cycle, the number of cells destroyed decreases as the population shrinks, meaning several cycles are needed to drive the count low enough for the immune system or other therapy to clear residual disease."
   },
   {
@@ -525,6 +590,7 @@
     "label": "Bone marrow biopsy",
     "category": "Lab & Diagnostics",
     "brick": "Acute Lymphoblastic Leukemia/Lymphoma",
+    "order": 32,
     "explanation": "Bone marrow biopsy/aspiration in adults is most safely and commonly performed at the posterior superior iliac crest to sample marrow for blasts."
   },
   {
@@ -533,6 +599,7 @@
     "label": "Mediastinal mass",
     "category": "Lab & Diagnostics",
     "brick": "Acute Lymphoblastic Leukemia/Lymphoma",
+    "order": 32,
     "explanation": "T-cell ALL commonly presents with an anterior mediastinal mass from lymphadenopathy, seen here as widening/opacity absent on the normal comparison film."
   },
   {
@@ -541,6 +608,7 @@
     "label": "Neutrophil",
     "category": "Pathology",
     "brick": "Benign Leukocytosis",
+    "order": 33,
     "explanation": "The cells are mature segmented neutrophils, consistent with benign mature neutrophilia. This most commonly occurs as a reactive response to bacterial infection or inflammation (also stress, smoking, and corticosteroids)."
   },
   {
@@ -549,6 +617,7 @@
     "label": "Toxic granulation",
     "category": "Pathology",
     "brick": "Benign Leukocytosis",
+    "order": 33,
     "explanation": "This is toxic granulation, an increase in darkly staining primary granules. It is a toxic change seen with bacterial infections and inflammation, reflecting activated neutrophil production."
   },
   {
@@ -557,6 +626,7 @@
     "label": "Cytoplasmic vacuolization",
     "category": "Pathology",
     "brick": "Benign Leukocytosis",
+    "order": 33,
     "explanation": "Cytoplasmic vacuolization results from degranulation of lysosomes within neutrophils, usually during widespread destruction of pathogens. It is most often seen in sepsis."
   },
   {
@@ -565,6 +635,7 @@
     "label": "Dohle body",
     "category": "Pathology",
     "brick": "Benign Leukocytosis",
+    "order": 33,
     "explanation": "This is a Dohle body, a peripheral blue-gray cytoplasmic inclusion made of ribosomes and remnants of rough endoplasmic reticulum. It reflects increased protein production in neutrophils responding to bacterial infection."
   },
   {
@@ -573,6 +644,7 @@
     "label": "Reactive lymphocytes",
     "category": "Pathology",
     "brick": "Benign Leukocytosis",
+    "order": 33,
     "explanation": "These are reactive lymphocytes, larger than normal with voluminous, deeply basophilic cytoplasm. They are classically produced by viral infections, especially infectious mononucleosis (EBV)."
   },
   {
@@ -581,6 +653,7 @@
     "label": "Downey cell",
     "category": "Pathology",
     "brick": "Benign Leukocytosis",
+    "order": 33,
     "explanation": "This is a Downey type II cell, a reactive lymphocyte with abundant agranular cytoplasm that molds around neighboring erythrocytes. It is the most common reactive lymphocyte and is classically associated with Epstein-Barr virus (infectious mononucleosis)."
   },
   {
@@ -589,6 +662,7 @@
     "label": "Hilar lymphadenopathy",
     "category": "Lab & Diagnostics",
     "brick": "Benign Lymphadenopathies",
+    "order": 34,
     "explanation": "Bilateral, symmetric hilar lymphadenopathy in a young adult is the classic radiographic finding of the granulomatous disease sarcoidosis. Malignancies and infections more often cause asymmetric or unilateral adenopathy."
   },
   {
@@ -597,6 +671,7 @@
     "label": "Lymph node",
     "category": "Histology & Cell Biology",
     "brick": "Benign Lymphadenopathies",
+    "order": 34,
     "explanation": "The paracortex (deep cortex) is the T-cell zone of the lymph node, whereas the follicles of the outer cortex contain predominantly B cells."
   },
   {
@@ -605,6 +680,7 @@
     "label": "Plague",
     "category": "Pathology",
     "brick": "Y. pestis, F. tularemia, and B. henselae",
+    "order": 35,
     "explanation": "Plague is endemic in the rural western US, where rodents, prairie dogs, and their fleas maintain the reservoir; only a handful of human cases (0-17) occur annually, clustered in these western states."
   },
   {
@@ -613,6 +689,7 @@
     "label": "Bubo",
     "category": "Pathology",
     "brick": "Y. pestis, F. tularemia, and B. henselae",
+    "order": 35,
     "explanation": "A bubo is a massively enlarged, painful regional lymph node draining the site of an infected flea bite; it defines bubonic plague, the most common (80-90%) form of Y. pestis infection."
   },
   {
@@ -621,6 +698,7 @@
     "label": "Acral necrosis",
     "category": "Pathology",
     "brick": "Y. pestis, F. tularemia, and B. henselae",
+    "order": 35,
     "explanation": "In septicemic plague, systemic inflammation triggers DIC, shock, and microvascular thrombosis, producing acral (fingertip/extremity) ischemic necrosis and gangrene, the classic 'Black Death' appearance."
   },
   {
@@ -629,6 +707,7 @@
     "label": "Bipolar staining",
     "category": "Lab & Diagnostics",
     "brick": "Y. pestis, F. tularemia, and B. henselae",
+    "order": 35,
     "explanation": "Y. pestis characteristically shows bipolar (dye taken up preferentially at each end) staining with stains such as Wright/Giemsa, giving a closed-safety-pin appearance useful in identification."
   },
   {
@@ -637,6 +716,7 @@
     "label": "Tularemia",
     "category": "Pathology",
     "brick": "Y. pestis, F. tularemia, and B. henselae",
+    "order": 35,
     "explanation": "Francisella tularensis (rabbit fever) is transmitted by handling infected rabbits or by arthropod vectors (ticks, deer flies); US cases concentrate in the Ozarks (Missouri and Arkansas)."
   },
   {
@@ -645,6 +725,7 @@
     "label": "Ulceroglandular tularemia",
     "category": "Pathology",
     "brick": "Y. pestis, F. tularemia, and B. henselae",
+    "order": 35,
     "explanation": "Ulceroglandular tularemia (75-85% of cases) uniquely ulcerates at the inoculation site along with enlarged local lymph nodes, fever, chills, and malaise, distinguishing it from the non-ulcerating bubo of plague."
   },
   {
@@ -653,6 +734,7 @@
     "label": "Cat scratch disease",
     "category": "Pathology",
     "brick": "Y. pestis, F. tularemia, and B. henselae",
+    "order": 35,
     "explanation": "A crusted inoculation papule with adjacent regional lymphadenitis in a child who has contact with cats and multiple scratches is the classic presentation of cat scratch disease caused by Bartonella henselae."
   },
   {
@@ -661,6 +743,7 @@
     "label": "Bacillary angiomatosis",
     "category": "Pathology",
     "brick": "Y. pestis, F. tularemia, and B. henselae",
+    "order": 35,
     "explanation": "Bacillary angiomatosis occurs in severely immunocompromised patients (HIV with low CD4, transplant, chemotherapy) and produces friable, bright red-purple vascular nodules; unlike the histologically similar Kaposi sarcoma, its lesions bleed easily and show neutrophilic infiltrates."
   },
   {
@@ -669,6 +752,7 @@
     "label": "Conjunctival suffusion",
     "category": "Pathology",
     "brick": "Leptospirosis and Lymphatic Filariasis",
+    "order": 36,
     "explanation": "Conjunctival suffusion is a hallmark of leptospirosis, and severe (Weil) disease can produce hemorrhage such as the oral bleeding shown here."
   },
   {
@@ -677,6 +761,7 @@
     "label": "Microfilaria",
     "category": "Lab & Diagnostics",
     "brick": "Leptospirosis and Lymphatic Filariasis",
+    "order": 36,
     "explanation": "Microfilariae of W. bancrofti are small larval nematodes seen in thick blood smears stained with Giemsa; they circulate in the blood with nocturnal periodicity."
   },
   {
@@ -685,6 +770,7 @@
     "label": "Elephantiasis",
     "category": "Pathology",
     "brick": "Leptospirosis and Lymphatic Filariasis",
+    "order": 36,
     "explanation": "Advanced elephantiasis of the limb reflects irreversible lymphatic fibrosis and destruction from chronic W. bancrofti infection."
   },
   {
@@ -693,6 +779,7 @@
     "label": "Microfilaria",
     "category": "Lab & Diagnostics",
     "brick": "Leptospirosis and Lymphatic Filariasis",
+    "order": 36,
     "explanation": "A peripheral blood smear stained with Giemsa demonstrating sheathed microfilariae is the most straightforward way to identify W. bancrofti."
   },
   {
@@ -701,6 +788,7 @@
     "label": "Microfilaria",
     "category": "Lab & Diagnostics",
     "brick": "Leptospirosis and Lymphatic Filariasis",
+    "order": 36,
     "explanation": "W. bancrofti microfilariae are nocturnal, so blood collected at night (approximately 10 PM to 2 AM) yields the highest diagnostic sensitivity."
   },
   {
@@ -709,6 +797,7 @@
     "label": "DNA cross-linking",
     "category": "Physiology & Mechanisms",
     "brick": "Alkylating Agents",
+    "order": 37,
     "explanation": "Cross-linked DNA cannot separate for replication; the cross-linked strands eventually break and replication is suppressed, arresting the cell cycle and driving the cell to apoptosis."
   },
   {
@@ -717,6 +806,7 @@
     "label": "Mechlorethamine",
     "category": "Pharmacology",
     "brick": "Alkylating Agents",
+    "order": 37,
     "explanation": "Nitrogen mustards such as mechlorethamine are bifunctional and covalently bridge the N-7 of guanine on two opposing strands, producing an interstrand cross-link that blocks strand separation."
   },
   {
@@ -725,6 +815,7 @@
     "label": "Mucositis",
     "category": "Pathology",
     "brick": "Alkylating Agents",
+    "order": 37,
     "explanation": "Alkylating agents kill all rapidly dividing cells, including the oral and gastric mucosa, producing mucositis and ulceration; the injured mucosa and reduced flow give the thick, pasty saliva seen here."
   },
   {
@@ -733,6 +824,7 @@
     "label": "Chemotherapy toxicities",
     "category": "Pharmacology",
     "brick": "Alkylating Agents",
+    "order": 37,
     "explanation": "Cyclophosphamide metabolism produces acrolein, which concentrates in the bladder and causes hemorrhagic cystitis; mesna binds and neutralizes acrolein to prevent this."
   },
   {
@@ -741,6 +833,7 @@
     "label": "Cell cycle",
     "category": "Pharmacology",
     "brick": "Antimetabolite Agents",
+    "order": 38,
     "explanation": "Antimetabolites are decoys for metabolic intermediates of DNA synthesis, so they are effective only during the S (synthesis) phase when DNA is being replicated; agents like alkylators act independent of cell-cycle phase."
   },
   {
@@ -749,6 +842,7 @@
     "label": "Folate cycle",
     "category": "Physiology & Mechanisms",
     "brick": "Antimetabolite Agents",
+    "order": 38,
     "explanation": "Inhibiting dihydrofolate reductase prevents regeneration of tetrahydrofolate, the cofactor thymidylate synthase needs to methylate dUMP into dTMP; without dTMP, DNA replication in dividing cells fails."
   },
   {
@@ -757,6 +851,7 @@
     "label": "Topoisomerases",
     "category": "Physiology & Mechanisms",
     "brick": "Topoisomerase, Microtubule Inhibitors, and Antitumor Antibiotics",
+    "order": 39,
     "explanation": "Topoisomerase I (left) nicks and religates a single strand and needs no ATP; topoisomerase II (right) cleaves both strands, passes a duplex through the break, and requires ATP."
   },
   {
@@ -765,6 +860,7 @@
     "label": "Normal RBCs",
     "category": "Histology & Cell Biology",
     "brick": "Red Blood Cell Laboratory Tests",
+    "order": 3,
     "explanation": "Normal RBCs are biconcave discs, so the central region is thin and contains little hemoglobin. This produces the zone of central pallor (roughly one third of the cell diameter) seen on a normal smear, not a true absence of hemoglobin or a nuclear remnant."
   },
   {
@@ -773,6 +869,7 @@
     "label": "Hemoglobin electrophoresis",
     "category": "Lab & Diagnostics",
     "brick": "Red Blood Cell Laboratory Tests",
+    "order": 3,
     "explanation": "Electrophoretic separation depends on charge: negatively charged hemoglobin moves toward the anode. The glutamate-to-valine substitution in HbS removes a negative charge, so HbS is less negatively charged than HbA and migrates less far, allowing the variants to be distinguished."
   },
   {
@@ -781,6 +878,7 @@
     "label": "Coombs test",
     "category": "Lab & Diagnostics",
     "brick": "Red Blood Cell Laboratory Tests",
+    "order": 3,
     "explanation": "The direct antiglobulin test detects RBCs already coated in vivo with antibody or complement. Coombs reagent (anti-human immunoglobulin/complement) cross-links these coated cells, producing visible agglutination, a positive result seen in autoimmune hemolytic anemia, hemolytic transfusion reactions, and hemolytic disease of the newborn."
   },
   {
@@ -789,6 +887,7 @@
     "label": "Smudge cell",
     "category": "Lab & Diagnostics",
     "brick": "B-Cell Non-Hodgkin Lymphomas",
+    "order": 40,
     "explanation": "Smudge (basket) cells are fragile lymphocytes ruptured during smear preparation and are a frequent, though non-specific, finding in chronic lymphocytic leukemia."
   },
   {
@@ -797,6 +896,7 @@
     "label": "SLL",
     "category": "Pathology",
     "brick": "B-Cell Non-Hodgkin Lymphomas",
+    "order": 40,
     "explanation": "SLL (the tissue counterpart of CLL) effaces the node with sheets of small round lymphocytes; the scattered larger prolymphocyte with a central nucleolus is characteristic."
   },
   {
@@ -805,6 +905,7 @@
     "label": "MALT lymphoma",
     "category": "Pathology",
     "brick": "B-Cell Non-Hodgkin Lymphomas",
+    "order": 40,
     "explanation": "Gastric MALT lymphoma arises in the setting of chronic Helicobacter pylori infection, and eradication of the organism often cures early disease."
   },
   {
@@ -813,6 +914,7 @@
     "label": "Burkitt lymphoma",
     "category": "Histology & Cell Biology",
     "brick": "B-Cell Non-Hodgkin Lymphomas",
+    "order": 41,
     "explanation": "The 'starry-sky' pattern is characteristic of Burkitt lymphoma: a dark background of rapidly proliferating malignant lymphocytes interrupted by pale tingible-body macrophages clearing the abundant apoptotic tumor-cell debris."
   },
   {
@@ -821,6 +923,7 @@
     "label": "Mantle cell lymphoma",
     "category": "Pathology",
     "brick": "B-Cell Non-Hodgkin Lymphomas",
+    "order": 41,
     "explanation": "Mantle cell lymphoma is a proliferation of small-to-intermediate sized cells that are positive for cyclin D1, which serves as a surrogate marker for the defining t(11;14) CCND1-IGH translocation."
   },
   {
@@ -829,6 +932,7 @@
     "label": "Mycosis fungoides",
     "category": "Pathology",
     "brick": "T-Cell Non-Hodgkin Lymphomas",
+    "order": 42,
     "explanation": "Early mycosis fungoides presents as scaly, erythematous patches/plaques that resemble eczema or psoriasis, often in a 'bathing-suit' (sun-protected) distribution, so patients are frequently treated for benign dermatoses for years before biopsy reveals the neoplasm."
   },
   {
@@ -837,6 +941,7 @@
     "label": "Raised plaque",
     "category": "Pathology",
     "brick": "T-Cell Non-Hodgkin Lymphomas",
+    "order": 42,
     "explanation": "Mycosis fungoides evolves through stages: flat patches, then raised plaques (shown), then nodular tumors, and finally in some patients erythroderma (Sezary syndrome). The raised, thick, red lesion follows the earlier flat patch/plaque stage."
   },
   {
@@ -845,6 +950,7 @@
     "label": "Fungoides tumors",
     "category": "Pathology",
     "brick": "T-Cell Non-Hodgkin Lymphomas",
+    "order": 42,
     "explanation": "The nodular, mushroom-like tumors of advanced disease gave rise to the misleading name 'mycosis fungoides'; the disease is a T-cell lymphoma, not a fungal infection."
   },
   {
@@ -853,6 +959,7 @@
     "label": "Erythroderma",
     "category": "Pathology",
     "brick": "T-Cell Non-Hodgkin Lymphomas",
+    "order": 42,
     "explanation": "Sezary syndrome is defined by the triad of erythroderma (red, itchy, peeling skin over >80% of the body), generalized lymphadenopathy, and clonal cerebriform T cells in skin, nodes, and blood."
   },
   {
@@ -861,6 +968,7 @@
     "label": "Cerebriform cell",
     "category": "Histology & Cell Biology",
     "brick": "T-Cell Non-Hodgkin Lymphomas",
+    "order": 42,
     "explanation": "The neoplastic cell of MF/Sezary syndrome has a strikingly convoluted, brain-like (cerebriform) nucleus; when these cells circulate they are called Sezary cells and are a hallmark of the disease."
   },
   {
@@ -869,6 +977,7 @@
     "label": "Pautrier microabscess",
     "category": "Histology & Cell Biology",
     "brick": "T-Cell Non-Hodgkin Lymphomas",
+    "order": 42,
     "explanation": "Intraepidermal clusters of malignant T cells in mycosis fungoides are called Pautrier microabscesses. The name is misleading: unlike true abscesses (neutrophils), these consist of neoplastic lymphoma cells."
   },
   {
@@ -877,6 +986,7 @@
     "label": "Nodular sclerosis",
     "category": "Histology & Cell Biology",
     "brick": "Hodgkin Lymphoma",
+    "order": 43,
     "explanation": "Broad collagen bands dividing the node into cellular nodules, together with lacunar-type Reed-Sternberg cell variants, are characteristic of nodular sclerosis, the most common subtype of classic Hodgkin lymphoma."
   },
   {
@@ -885,6 +995,7 @@
     "label": "Plasma cells",
     "category": "Histology & Cell Biology",
     "brick": "Multiple Myeloma and Plasma Cell Disorders",
+    "order": 44,
     "explanation": "The eccentric nucleus, perinuclear hof (Golgi), and clockface chromatin identify plasma cells; their abundance and blast-like atypia indicate the neoplastic plasma cells of multiple myeloma."
   },
   {
@@ -893,6 +1004,7 @@
     "label": "Rouleaux",
     "category": "Lab & Diagnostics",
     "brick": "Multiple Myeloma and Plasma Cell Disorders",
+    "order": 44,
     "explanation": "High monoclonal immunoglobulin neutralizes the zeta potential (repulsive negative charge) on erythrocytes, allowing them to adhere face-to-face as rouleaux; this is not true immune agglutination."
   },
   {
@@ -901,6 +1013,7 @@
     "label": "Lytic lesions",
     "category": "Lab & Diagnostics",
     "brick": "Multiple Myeloma and Plasma Cell Disorders",
+    "order": 44,
     "explanation": "Myeloma cells secrete factors (e.g., RANKL) that activate osteoclasts, causing focal lytic (not sclerotic) lesions best seen in the calvaria and contributing to hypercalcemia and pathologic fractures."
   },
   {
@@ -909,6 +1022,7 @@
     "label": "Immunofixation",
     "category": "Lab & Diagnostics",
     "brick": "Multiple Myeloma and Plasma Cell Disorders",
+    "order": 44,
     "explanation": "Immunofixation applies antisera against individual heavy and light chains, so the reactive lanes reveal the exact isotype (here IgG lambda), confirming and characterizing the M protein detected on SPEP."
   },
   {
@@ -917,6 +1031,7 @@
     "label": "Philadelphia chromosome",
     "category": "Pathology",
     "brick": "Chronic Myeloid Leukemia",
+    "order": 46,
     "explanation": "The diagram shows the t(9;22) translocation moving ABL from chromosome 9 next to BCR on chromosome 22, forming the Philadelphia chromosome. The resulting BCR::ABL fusion encodes a constitutively active tyrosine kinase that drives the uncontrolled myeloid proliferation of CML."
   },
   {
@@ -925,6 +1040,7 @@
     "label": "Bone marrow",
     "category": "Histology & Cell Biology",
     "brick": "Chronic Myeloid Leukemia",
+    "order": 46,
     "explanation": "The marrow in chronic-phase CML is moderately to markedly hypercellular, with the fat spaces largely replaced by a proliferating granulocytic (neutrophilic) series and numerous megakaryocytes."
   },
   {
@@ -933,6 +1049,7 @@
     "label": "Tyrosine kinase inhibitor",
     "category": "Pharmacology",
     "brick": "Chronic Myeloid Leukemia",
+    "order": 46,
     "explanation": "Tyrosine kinase inhibitors such as imatinib bind the intracellular kinase (ATP-binding) domain of the receptor, preventing autophosphorylation and thereby blocking the downstream signal-transduction cascades that drive proliferation. This differs from monoclonal antibodies, which act extracellularly."
   },
   {
@@ -941,6 +1058,7 @@
     "label": "JAK2 signaling",
     "category": "Physiology & Mechanisms",
     "brick": "Polycythemia Vera",
+    "order": 47,
     "explanation": "Nearly all cases of PV carry an activating JAK2 mutation that keeps the JAK-STAT pathway constitutively active independent of erythropoietin, driving unregulated red cell production."
   },
   {
@@ -949,6 +1067,7 @@
     "label": "Peripheral smear",
     "category": "Lab & Diagnostics",
     "brick": "Polycythemia Vera",
+    "order": 47,
     "explanation": "PV smears show a densely packed, crowded field due to erythrocytosis, but the red cells themselves usually retain normal morphology."
   },
   {
@@ -957,6 +1076,7 @@
     "label": "Splenomegaly",
     "category": "Pathology",
     "brick": "Polycythemia Vera",
+    "order": 47,
     "explanation": "In the spent phase of PV, bone marrow fibrosis drives compensatory extramedullary hematopoiesis in the spleen and liver, producing massive splenomegaly."
   },
   {
@@ -965,6 +1085,7 @@
     "label": "Bone marrow",
     "category": "Pathology",
     "brick": "Essential Thrombocythemia",
+    "order": 48,
     "explanation": "The bone marrow in ET is typically normocellular, but the hallmark is a massive proliferation of enlarged megakaryocytes, often seen in loose clusters throughout the marrow. These are the precursors that spill excess platelets into the blood."
   },
   {
@@ -973,6 +1094,7 @@
     "label": "Bone marrow fibrosis",
     "category": "Pathology",
     "brick": "Primary Myelofibrosis",
+    "order": 49,
     "explanation": "In primary myelofibrosis the marrow is progressively replaced by fibrous connective tissue (highlighted on reticulin staining), crowding out normal hematopoietic cells and driving extramedullary hematopoiesis and dry-tap aspirates."
   },
   {
@@ -981,6 +1103,7 @@
     "label": "MDS classification",
     "category": "Pathology",
     "brick": "Myelodysplastic Neoplasms",
+    "order": 50,
     "explanation": "MDS is a clonal myeloid neoplasm, so it shares a lineage with acute myeloid leukemia; roughly 30% of MDS cases transform into AML. The lymphoid and plasma-cell malignancies shown on the other branches arise from different progenitors."
   },
   {
@@ -989,6 +1112,7 @@
     "label": "Hypogranulated neutrophil",
     "category": "Pathology",
     "brick": "Myelodysplastic Neoplasms",
+    "order": 50,
     "explanation": "Hypogranulation and hyposegmentation of neutrophils reflect dysplastic maturation of the myeloid line, a peripheral-blood clue to MDS. Sepsis instead produces toxic granulation (increased, coarse granules), the opposite finding."
   },
   {
@@ -997,6 +1121,7 @@
     "label": "Dysplastic megakaryocytes",
     "category": "Pathology",
     "brick": "Myelodysplastic Neoplasms",
+    "order": 50,
     "explanation": "Megakaryocytes shed cytoplasmic fragments to form platelets. Dysplastic, small, monolobated megakaryocytes are a marrow feature of MDS and contribute to the thrombocytopenia seen in these patients."
   },
   {
@@ -1005,6 +1130,7 @@
     "label": "Myeloblast",
     "category": "Histology & Cell Biology",
     "brick": "Acute Myeloid Leukemia",
+    "order": 51,
     "explanation": "Blasts are the earliest, most immature precursor cells. Myeloblasts are large with a high nuclear-to-cytoplasmic ratio, fine (open) chromatin, and prominent nucleoli, distinguishing them from the smaller, mature lymphocyte with its condensed nucleus and scant cytoplasm."
   },
   {
@@ -1013,6 +1139,7 @@
     "label": "Hematopoiesis",
     "category": "Histology & Cell Biology",
     "brick": "Hematopoietic Stem Cell Transplantation",
+    "order": 52,
     "explanation": "The cell at the top of this hematopoiesis tree is the pluripotent hematopoietic stem cell, defined by its ability to self-renew and to give rise to all myeloid and lymphoid blood elements."
   },
   {
@@ -1021,6 +1148,7 @@
     "label": "Bone marrow aspiration",
     "category": "Lab & Diagnostics",
     "brick": "Hematopoietic Stem Cell Transplantation",
+    "order": 52,
     "explanation": "Bone marrow procurement is typically performed under general anesthesia with needles aspirating marrow from both sides of the posterior iliac crest."
   },
   {
@@ -1029,6 +1157,7 @@
     "label": "Apheresis",
     "category": "Lab & Diagnostics",
     "brick": "Hematopoietic Stem Cell Transplantation",
+    "order": 52,
     "explanation": "Because stem cells are normally scarce in blood, mobilizing agents such as G-CSF (most common) are given prior to apheresis to drive stem cells from the marrow into circulation."
   },
   {
@@ -1037,6 +1166,7 @@
     "label": "Post-transplant timeline",
     "category": "Physiology & Mechanisms",
     "brick": "Hematopoietic Stem Cell Transplantation",
+    "order": 52,
     "explanation": "Engraftment typically occurs within about 21 days, while acute GVHD gives way to chronic GVHD around day +100, as reflected in the recovery-period timeline."
   },
   {
@@ -1045,6 +1175,7 @@
     "label": "Oral mucositis",
     "category": "Pathology",
     "brick": "Hematopoietic Stem Cell Transplantation",
+    "order": 52,
     "explanation": "Oral mucositis (inflammation of the mouth) occurs in most transplant recipients and results from the high-intensity conditioning chemotherapy/radiation given prior to transplant."
   },
   {
@@ -1053,6 +1184,7 @@
     "label": "Post-transplant complications",
     "category": "Pathology",
     "brick": "Hematopoietic Stem Cell Transplantation",
+    "order": 52,
     "explanation": "Early complications (mucositis, bacterial infection, acute GVHD) cluster in the first weeks, whereas chronic GVHD is the latest to appear, persisting long after day 100."
   },
   {
@@ -1061,6 +1193,7 @@
     "label": "Spleen",
     "category": "Gross Anatomy",
     "brick": "Structure and Function of the Spleen",
+    "order": 53,
     "explanation": "The spleen lies in the left upper quadrant, tucked beneath the diaphragm and posterolateral to the stomach, shielded by ribs 9-11. Its position explains why splenic enlargement is felt below the left costal margin."
   },
   {
@@ -1069,6 +1202,7 @@
     "label": "CT abdomen",
     "category": "Lab & Diagnostics",
     "brick": "Structure and Function of the Spleen",
+    "order": 53,
     "explanation": "The image is an axial CT slice: it shows a single transverse plane with soft-tissue attenuation differences distinguishing liver, stomach, aorta and spleen, and the vertebral body posteriorly. CT provides this cross-sectional bony-and-soft-tissue detail in one plane."
   },
   {
@@ -1077,6 +1211,7 @@
     "label": "Gastrosplenic ligament",
     "category": "Gross Anatomy",
     "brick": "Structure and Function of the Spleen",
+    "order": 53,
     "explanation": "The gastrosplenic ligament carries the short gastric arteries/veins and the left gastroepiploic vessels, all branches of the splenic vessels. The nearby splenorenal ligament instead conveys the splenic artery and vein and the tail of the pancreas."
   },
   {
@@ -1085,6 +1220,7 @@
     "label": "Splenic vasculature",
     "category": "Gross Anatomy",
     "brick": "Structure and Function of the Spleen",
+    "order": 53,
     "explanation": "The splenic artery is the largest branch of the celiac trunk. Its accompanying splenic vein leaves the hilum and unites with the superior mesenteric vein to form the hepatic portal vein, as depicted."
   },
   {
@@ -1093,6 +1229,7 @@
     "label": "Splenic circulation",
     "category": "Physiology & Mechanisms",
     "brick": "Structure and Function of the Spleen",
+    "order": 53,
     "explanation": "In open circulation, blood empties into the splenic cords and RBCs must deform to pass through slits between sinusoidal stave cells. Aged or abnormal (inflexible) RBCs cannot pass and are retained and destroyed by cord macrophages, while healthy deformable cells re-enter the sinusoids."
   },
   {
@@ -1101,6 +1238,7 @@
     "label": "Splenic sinusoid",
     "category": "Histology & Cell Biology",
     "brick": "Structure and Function of the Spleen",
+    "order": 53,
     "explanation": "Stave cells lie lengthwise like barrel staves and are bound by reticulin (collagen III) fibers arranged in a barrel-hoop fashion, leaving slit-like gaps. Deformable healthy RBCs squeeze through these slits into the sinusoid; rigid damaged cells are held back for phagocytosis."
   },
   {
@@ -1109,6 +1247,7 @@
     "label": "White pulp",
     "category": "Histology & Cell Biology",
     "brick": "Structure and Function of the Spleen",
+    "order": 53,
     "explanation": "The periarteriolar lymphoid sheath surrounds the central arteriole and is rich in T cells. Adjacent splenic follicles (with germinal centers) are the B-cell zones; the marginal zone links the two and screens blood-borne antigens."
   },
   {
@@ -1117,6 +1256,7 @@
     "label": "Splenic histology",
     "category": "Histology & Cell Biology",
     "brick": "Structure and Function of the Spleen",
+    "order": 53,
     "explanation": "The coexistence of blood-filled red pulp and periarteriolar lymphoid white pulp organized around central arterioles is characteristic of the spleen. Lymph nodes have cortex/medulla with subcapsular sinuses and lack red pulp with central arterioles."
   },
   {
@@ -1125,6 +1265,7 @@
     "label": "PALS",
     "category": "Histology & Cell Biology",
     "brick": "Structure and Function of the Spleen",
+    "order": 53,
     "explanation": "The PALS is the T-cell compartment of splenic white pulp, wrapping the central arteriole. B cells instead reside in the adjacent follicles, which appear as rounded zones with germinal centers next to the sheath."
   },
   {
@@ -1133,6 +1274,7 @@
     "label": "Splenic follicle",
     "category": "Histology & Cell Biology",
     "brick": "Structure and Function of the Spleen",
+    "order": 53,
     "explanation": "The germinal center houses activated B cells undergoing proliferation and antibody affinity maturation. It is surrounded by the mantle zone (resting B cells) and the marginal zone, which links the follicle to the T-cell-rich PALS."
   },
   {
@@ -1141,6 +1283,7 @@
     "label": "Spleen microanatomy",
     "category": "Physiology & Mechanisms",
     "brick": "Structure and Function of the Spleen",
+    "order": 53,
     "explanation": "The marginal zone sits at the interface of white and red pulp and is the site where blood-borne antigens, opsonized bacteria and immune complexes are captured and handed off to B cells and to T cells in the PALS, linking innate blood filtration with adaptive immunity."
   },
   {
@@ -1149,6 +1292,7 @@
     "label": "Spleen",
     "category": "Gross Anatomy",
     "brick": "Disorders of the Spleen",
+    "order": 54,
     "explanation": "The spleen is a highly vascular solid organ located in the left upper quadrant beneath the lower ribs, which makes it vulnerable to chest wall and rib injuries on the left side."
   },
   {
@@ -1157,6 +1301,7 @@
     "label": "Portal venous system",
     "category": "Physiology & Mechanisms",
     "brick": "Disorders of the Spleen",
+    "order": 54,
     "explanation": "Scarring in a cirrhotic liver raises portal venous pressure, which is transmitted back through the splenic vein, increasing blood volume and pressure within the spleen and enlarging it (congestive splenomegaly)."
   },
   {
@@ -1165,6 +1310,7 @@
     "label": "Autoinfarcted spleen",
     "category": "Pathology",
     "brick": "Disorders of the Spleen",
+    "order": 54,
     "explanation": "Repeated vaso-occlusive crises in sickle cell disease cause microthrombi that shrink the spleen to a small, fibrotic, calcified remnant (auto-infarction / physiologic asplenia)."
   },
   {
@@ -1173,6 +1319,7 @@
     "label": "Splenic hematoma",
     "category": "Lab & Diagnostics",
     "brick": "Disorders of the Spleen",
+    "order": 54,
     "explanation": "The image shows a splenic hematoma/laceration with peritoneal blood; because the spleen is highly vascular, rupture can cause severe hemorrhage, hypovolemic shock, and death, making it a surgical emergency."
   },
   {
@@ -1181,6 +1328,7 @@
     "label": "T-cell selection",
     "category": "Physiology & Mechanisms",
     "brick": "Structure, Function, and Disorders of the Thymus",
+    "order": 55,
     "explanation": "T cells that bind self-antigen too strongly are deleted (negative selection) so that autoreactive cells do not enter the circulation; this central tolerance prevents autoimmune disease."
   },
   {
@@ -1189,6 +1337,7 @@
     "label": "Thymoma",
     "category": "Pathology",
     "brick": "Structure, Function, and Disorders of the Thymus",
+    "order": 55,
     "explanation": "The images show thymoma; about half of thymoma patients have myasthenia gravis, an autoimmune disease with antibodies against the neuromuscular junction."
   },
   {
@@ -1197,6 +1346,7 @@
     "label": "Thymic mass",
     "category": "Lab & Diagnostics",
     "brick": "Structure, Function, and Disorders of the Thymus",
+    "order": 55,
     "explanation": "A thymic mass lies in the anterior mediastinum; a lateral view would confirm the anterior/retrosternal location, and loss of the upper heart-border silhouette localizes it anteriorly."
   },
   {
@@ -1205,6 +1355,7 @@
     "label": "Wiskott-Aldrich",
     "category": "Pathology",
     "brick": "Structure, Function, and Disorders of the Thymus",
+    "order": 55,
     "explanation": "Wiskott-Aldrich syndrome is an X-linked recessive WAS-gene disorder with the triad of eczema, recurrent infections (hypoplastic thymus), and thrombocytopenia with small platelets."
   },
   {
@@ -1213,6 +1364,7 @@
     "label": "Emetic pathway",
     "category": "Physiology & Mechanisms",
     "brick": "Antiemetics for Chemotherapy Patients",
+    "order": 56,
     "explanation": "The chemoreceptor trigger zone in the area postrema sits outside the blood-brain barrier, exposing its D2, 5-HT3, and NK1 chemoreceptors to blood- and CSF-borne emetic stimuli. It relays to the vomiting center (nucleus tractus solitarius), which coordinates the emetic reflex alongside vestibular and GI inputs."
   },
   {
@@ -1221,6 +1373,7 @@
     "label": "Falciparum gametocyte",
     "category": "Lab & Diagnostics",
     "brick": "Plasmodium, Babesia, and Brucella spp.",
+    "order": 57,
     "explanation": "Unlike the round gametocytes of other Plasmodium species, P. falciparum produces a characteristic elongated crescent- or banana-shaped gametocyte, which is diagnostically distinctive on a blood smear."
   },
   {
@@ -1229,6 +1382,7 @@
     "label": "Malarial parasites",
     "category": "Lab & Diagnostics",
     "brick": "Plasmodium, Babesia, and Brucella spp.",
+    "order": 57,
     "explanation": "The dark-stained organisms lie inside the erythrocytes, a hallmark of intraerythrocytic malarial parasites. Bacteria, viral inclusions, and yeast forms would not produce this intra-RBC parasitized appearance across multiple fields."
   },
   {
@@ -1237,6 +1391,7 @@
     "label": "Maltese cross",
     "category": "Lab & Diagnostics",
     "brick": "Plasmodium, Babesia, and Brucella spp.",
+    "order": 57,
     "explanation": "Babesia merozoites form a tetrad within the RBC that resembles a Maltese cross, a finding specific to babesiosis. Plasmodium does not form tetrads, and Trypanosoma and Bartonella have different smear appearances."
   },
   {
@@ -1245,6 +1400,7 @@
     "label": "Chloroquine",
     "category": "Pharmacology",
     "brick": "Drugs to Treat Plasmodium, Babesia, and Brucella",
+    "order": 58,
     "explanation": "Chloroquine and hydroxychloroquine block detoxification of heme to hemozoin and increase digestive-vacuole pH, causing accumulation of toxic heme that damages the parasite. Their adverse effects include pruritus, cardiomyopathy, and hemolysis (especially in G6PD deficiency)."
   },
   {
@@ -1253,6 +1409,7 @@
     "label": "Atovaquone-proguanil",
     "category": "Pharmacology",
     "brick": "Drugs to Treat Plasmodium, Babesia, and Brucella",
+    "order": 58,
     "explanation": "Atovaquone selectively inhibits parasite mitochondrial electron transport, while proguanil's metabolite inhibits dihydrofolate reductase, blocking folate/DNA synthesis. Common adverse effects include nausea, abdominal pain, and transaminitis (increased AST/ALT)."
   },
   {
@@ -1261,6 +1418,7 @@
     "label": "Doxycycline",
     "category": "Pharmacology",
     "brick": "Drugs to Treat Plasmodium, Babesia, and Brucella",
+    "order": 58,
     "explanation": "Doxycycline is a 30S protein-synthesis inhibitor that prevents the parasite from replicating. Its adverse effects include GI disturbances (diarrhea, vomiting, nausea) and photosensitivity, plus chelation with cations."
   },
   {
@@ -1269,6 +1427,7 @@
     "label": "Primaquine",
     "category": "Pharmacology",
     "brick": "Drugs to Treat Plasmodium, Babesia, and Brucella",
+    "order": 58,
     "explanation": "Primaquine disrupts mitochondria and binds parasite DNA, and is uniquely active against exoerythrocytic (hypnozoite) stages. Its adverse effects include cardiac arrhythmias (QT prolongation), leukopenia, and hemolytic anemia in G6PD deficiency."
   },
   {
@@ -1277,6 +1436,7 @@
     "label": "Marburg virus",
     "category": "Histology & Cell Biology",
     "brick": "Hemorrhagic Viruses",
+    "order": 59,
     "explanation": "The image shows long, thread-like enveloped virions typical of the Filoviridae family (Marburg/Ebola), which have a helical nucleocapsid enclosed in an envelope and a filamentous morphology."
   },
   {
@@ -1285,6 +1445,7 @@
     "label": "Bat",
     "category": "Pathology",
     "brick": "Hemorrhagic Viruses",
+    "order": 59,
     "explanation": "Bats serve as the natural reservoir for Marburg virus and the likely reservoir for Ebola virus; spillover into humans occurs through contact with infected animal fluids."
   },
   {
@@ -1293,6 +1454,7 @@
     "label": "Monoclonal antibodies",
     "category": "Pharmacology",
     "brick": "Hemorrhagic Viruses",
+    "order": 59,
     "explanation": "The monoclonal antibodies bind the viral surface glycoprotein and block its engagement of cognate host receptors, neutralizing the virus; they also mediate antibody-dependent cellular cytotoxicity."
   },
   {
@@ -1301,6 +1463,7 @@
     "label": "Rodent",
     "category": "Pathology",
     "brick": "Hemorrhagic Viruses",
+    "order": 59,
     "explanation": "Rodents are the reservoir for hantaviruses; humans are infected mainly by inhaling aerosolized particles from rodent feces, urine, and saliva."
   },
   {
@@ -1309,6 +1472,7 @@
     "label": "Hepcidin",
     "category": "Physiology & Mechanisms",
     "brick": "Iron-Deficiency Anemia",
+    "order": 5,
     "explanation": "The hormone is hepcidin. Inflammatory cytokines drive hepcidin, which internalizes and degrades ferroportin, trapping iron inside enterocytes and macrophages and lowering serum iron. Chronic inflammation therefore produces the functional iron restriction of anemia of chronic disease. Hemochromatosis, by contrast, results from inappropriately LOW hepcidin."
   },
   {
@@ -1317,6 +1481,7 @@
     "label": "Hypochromic RBCs",
     "category": "Pathology",
     "brick": "Iron-Deficiency Anemia",
+    "order": 5,
     "explanation": "The smear shows hypochromic, microcytic red cells with anisocytosis, characteristic of iron-deficiency anemia. Low serum ferritin most specifically reflects depleted iron stores; ferritin rises with inflammation, TIBC is high (not low) in iron deficiency, and the reticulocyte count is decreased."
   },
   {
@@ -1325,6 +1490,7 @@
     "label": "Conjunctival pallor",
     "category": "Lab & Diagnostics",
     "brick": "Iron-Deficiency Anemia",
+    "order": 5,
     "explanation": "Pallor of the palpebral conjunctiva reflects a reduced hemoglobin concentration and is a classic bedside sign of anemia. Elevated bilirubin would yellow the sclera (jaundice), and cyanosis produces a bluish rather than pale appearance."
   },
   {
@@ -1333,6 +1499,7 @@
     "label": "Koilonychia",
     "category": "Pathology",
     "brick": "Iron-Deficiency Anemia",
+    "order": 5,
     "explanation": "The finding is koilonychia (spoon nails), a classic chronic sign of iron-deficiency anemia. It is not a typical feature of B12, folate, vitamin C, or zinc deficiency."
   },
   {
@@ -1341,6 +1508,7 @@
     "label": "Hemorrhagic fever viruses",
     "category": "Pathology",
     "brick": "Arboviruses",
+    "order": 60,
     "explanation": "Arbovirus means arthropod-borne virus. The green branch (yellow fever, dengue, Zika, West Nile, chikungunya, Rift Valley, CCHF) is spread by mosquitoes or ticks, whereas the blue branch (Ebola, Marburg, hantavirus, Lassa) is acquired from bat or rodent contact, not a vector."
   },
   {
@@ -1349,6 +1517,7 @@
     "label": "Yellow fever",
     "category": "Pathology",
     "brick": "Arboviruses",
+    "order": 60,
     "explanation": "The sequence shows the classic toxic phase of yellow fever: high fever followed by jaundice (hence the name) from hepatic injury, then mucosal erosion and hematemesis of partially digested blood ('black vomit')."
   },
   {
@@ -1357,6 +1526,7 @@
     "label": "Councilman bodies",
     "category": "Histology & Cell Biology",
     "brick": "Arboviruses",
+    "order": 60,
     "explanation": "The arrowed structures are Councilman (acidophil) bodies, hepatocytes dying by apoptosis. They shrink, become deeply eosinophilic, and lose their nucleus, distinguishing them from swollen or fat-laden cells."
   },
   {
@@ -1365,6 +1535,7 @@
     "label": "Congenital Zika",
     "category": "Pathology",
     "brick": "Arboviruses",
+    "order": 60,
     "explanation": "Congenital Zika syndrome results from vertical (transplacental) transmission and characteristically produces microcephaly with overlapping skull sutures, redundant scalp skin, ventriculomegaly, and intracranial calcifications."
   },
   {
@@ -1373,6 +1544,7 @@
     "label": "Frontal bossing",
     "category": "Pathology",
     "brick": "Thalassemias",
+    "order": 6,
     "explanation": "Ineffective erythropoiesis drives massive marrow hyperplasia; in severe thalassemia the marrow expands the skull and facial bones, producing frontal bossing, malar prominence, and maxillary hypertrophy."
   },
   {
@@ -1381,6 +1553,7 @@
     "label": "Hepcidin",
     "category": "Physiology & Mechanisms",
     "brick": "Anemia of Chronic Disease/Inflammation",
+    "order": 7,
     "explanation": "IL-6 is the principal inflammatory cytokine that stimulates hepatic synthesis of hepcidin. Elevated hepcidin causes internalization and degradation of ferroportin-1, blocking iron release from enterocytes, macrophages, and hepatocytes, so less iron reaches the marrow and anemia results. IL-10 and TGF-beta are anti-inflammatory, IFN-gamma is not the primary hepcidin driver, and erythropoietin actually suppresses hepcidin."
   },
   {
@@ -1389,6 +1562,7 @@
     "label": "Pappenheimer bodies",
     "category": "Lab & Diagnostics",
     "brick": "Sideroblastic Anemia",
+    "order": 8,
     "explanation": "The arrows indicate Pappenheimer bodies, iron-containing granules that stain with Prussian blue and cluster at the RBC periphery. They reflect abnormal iron incorporation seen in sideroblastic anemia, not hemoglobin, nuclear, or RNA remnants."
   },
   {
@@ -1397,6 +1571,7 @@
     "label": "Normal RBCs",
     "category": "Histology & Cell Biology",
     "brick": "Red Blood Cell Laboratory Tests",
+    "order": 9,
     "explanation": "Normal RBCs are biconcave discs, so their thin central region contains little hemoglobin and appears as a pale zone of central pallor (about one-third of the cell diameter). Mature RBCs have no nucleus, and inclusions such as Heinz bodies or nuclear remnants are abnormal findings."
   },
   {
@@ -1405,6 +1580,7 @@
     "label": "Hemoglobin electrophoresis",
     "category": "Lab & Diagnostics",
     "brick": "Red Blood Cell Laboratory Tests",
+    "order": 9,
     "explanation": "In gel electrophoresis, an applied electric field causes charged hemoglobin molecules to migrate; the net surface charge (determined by amino acid substitutions in the globin chains) chiefly governs the migration distance, allowing separation of variants such as HbA, HbF, HbS, and HbC."
   },
   {
@@ -1413,6 +1589,7 @@
     "label": "Osmotic fragility",
     "category": "Lab & Diagnostics",
     "brick": "Red Blood Cell Laboratory Tests",
+    "order": 9,
     "explanation": "Cells that lyse at relatively high (less hypotonic) NaCl concentrations are more fragile; this leftward-shifted curve is classic for hereditary spherocytosis, whose spherocytes have a low surface-area-to-volume ratio and rupture easily. Conditions like sickle cell anemia and thalassemia instead show decreased fragility."
   },
   {
@@ -1421,6 +1598,7 @@
     "label": "Coombs test",
     "category": "Lab & Diagnostics",
     "brick": "Red Blood Cell Laboratory Tests",
+    "order": 9,
     "explanation": "The direct antiglobulin test uses anti-immunoglobulin (Coombs) reagent that cross-links RBCs already coated in vivo with antibody or complement, producing visible agglutination. A positive DAT indicates in vivo sensitization, as in autoimmune hemolytic anemia or hemolytic disease of the newborn."
   }
 ]
