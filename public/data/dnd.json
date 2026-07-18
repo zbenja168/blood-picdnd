@@ -3,1068 +3,1246 @@
     "id": "bldnd-001",
     "imageRef": "bldnd-001_bl000_f01.png",
     "label": "Hematopoiesis",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Aplastic Anemia"
   },
   {
     "id": "bldnd-002",
     "imageRef": "bldnd-002_bl000_f02.png",
     "label": "Fanconi anemia",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Aplastic Anemia"
   },
   {
     "id": "bldnd-003",
     "imageRef": "bldnd-003_bl001_f02.png",
     "label": "Spherocytes",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Hereditary Spherocytosis"
   },
   {
     "id": "bldnd-004",
     "imageRef": "bldnd-004_bl001_f04.png",
     "label": "Osmotic fragility test",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Hereditary Spherocytosis"
   },
   {
     "id": "bldnd-005",
     "imageRef": "bldnd-005_bl001_f05.png",
     "label": "Elliptocytes",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Hereditary Spherocytosis"
   },
   {
     "id": "bldnd-006",
     "imageRef": "bldnd-006_bl001_f06.png",
     "label": "Pyropoikilocytosis",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Hereditary Spherocytosis"
   },
   {
     "id": "bldnd-007",
     "imageRef": "bldnd-007_bl002_f04.png",
     "label": "HbS polymerization",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Sickle Cell Disease"
   },
   {
     "id": "bldnd-008",
     "imageRef": "bldnd-008_bl002_f05.png",
     "label": "Vaso-occlusion",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Sickle Cell Disease"
   },
   {
     "id": "bldnd-009",
     "imageRef": "bldnd-009_bl002_f07.png",
     "label": "Howell-Jolly bodies",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Sickle Cell Disease"
   },
   {
     "id": "bldnd-010",
     "imageRef": "bldnd-010_bl002_f08.png",
     "label": "Hemoglobin electrophoresis",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Sickle Cell Disease"
   },
   {
     "id": "bldnd-011",
     "imageRef": "bldnd-011_bl003_f01.png",
     "label": "Glutathione pathway",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
   },
   {
     "id": "bldnd-012",
     "imageRef": "bldnd-012_bl003_f02.png",
     "label": "Heinz bodies",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
   },
   {
     "id": "bldnd-013",
     "imageRef": "bldnd-013_bl003_f03.png",
     "label": "Bite cells",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Glucose-6-Phosphate Dehydrogenase and Pyruvate Kinase Deficiencies"
   },
   {
     "id": "bldnd-014",
     "imageRef": "bldnd-014_bl004_f02.png",
     "label": "Spherocytes",
-    "category": "Histology & Cell Biology"
+    "category": "Histology & Cell Biology",
+    "brick": "Autoimmune Hemolytic Anemias"
   },
   {
     "id": "bldnd-015",
     "imageRef": "bldnd-015_bl004_f03.png",
     "label": "IgM",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Autoimmune Hemolytic Anemias"
   },
   {
     "id": "bldnd-016",
     "imageRef": "bldnd-016_bl005_f01.png",
     "label": "Methylmalonyl pathway",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Megaloblastic Anemia"
   },
   {
     "id": "bldnd-017",
     "imageRef": "bldnd-017_bl005_f02.png",
     "label": "Macro-ovalocyte",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Megaloblastic Anemia"
   },
   {
     "id": "bldnd-018",
     "imageRef": "bldnd-018_bl007_f03.png",
     "label": "Fibrin clot",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Hemostasis"
   },
   {
     "id": "bldnd-019",
     "imageRef": "bldnd-019_bl007_f05.png",
     "label": "Calcium & Vitamin K",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Hemostasis"
   },
   {
     "id": "bldnd-020",
     "imageRef": "bldnd-020_bl007_f06.png",
     "label": "Anticoagulant control",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Hemostasis"
   },
   {
     "id": "bldnd-021",
     "imageRef": "bldnd-021_bl007_f07.png",
     "label": "Hemarthrosis",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Hemostasis"
   },
   {
     "id": "bldnd-022",
     "imageRef": "bldnd-022_bl008_f01.png",
     "label": "ABO blood types",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Transfusion Medicine"
   },
   {
     "id": "bldnd-023",
     "imageRef": "bldnd-023_bl008_f02.png",
     "label": "HDN",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Transfusion Medicine"
   },
   {
     "id": "bldnd-024",
     "imageRef": "bldnd-024_bl008_f03.png",
     "label": "Blood typing",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Transfusion Medicine"
   },
   {
     "id": "bldnd-025",
     "imageRef": "bldnd-025_bl008_f04.png",
     "label": "Cross-match",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Transfusion Medicine"
   },
   {
     "id": "bldnd-026",
     "imageRef": "bldnd-026_bl009_f01.png",
     "label": "Hemarthrosis",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Hemophilia"
   },
   {
     "id": "bldnd-027",
     "imageRef": "bldnd-027_bl009_f02.png",
     "label": "Coagulation cascade",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Hemophilia"
   },
   {
     "id": "bldnd-028",
     "imageRef": "bldnd-028_bl009_f03.png",
     "label": "X-linked inheritance",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Hemophilia"
   },
   {
     "id": "bldnd-029",
     "imageRef": "bldnd-029_bl010_f04.png",
     "label": "Neutrophil maturation",
-    "category": "Histology & Cell Biology"
+    "category": "Histology & Cell Biology",
+    "brick": "Hematopoiesis"
   },
   {
     "id": "bldnd-030",
     "imageRef": "bldnd-030_bl010_f06.png",
     "label": "Platelets",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Hematopoiesis"
   },
   {
     "id": "bldnd-031",
     "imageRef": "bldnd-031_bl011_f01.png",
     "label": "Inheritance pattern",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "von Willebrand Disease"
   },
   {
     "id": "bldnd-032",
     "imageRef": "bldnd-032_bl013_f01.png",
     "label": "Livedo reticularis",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Antiphospholipid Antibody Syndrome"
   },
   {
     "id": "bldnd-033",
     "imageRef": "bldnd-033_bl014_f01.png",
     "label": "Coagulation cascade",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Genetic Thrombotic Disorders"
   },
   {
     "id": "bldnd-034",
     "imageRef": "bldnd-034_bl014_f02.png",
     "label": "Skin necrosis",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Genetic Thrombotic Disorders"
   },
   {
     "id": "bldnd-035",
     "imageRef": "bldnd-035_bl015_f02.png",
     "label": "Warfarin targets",
-    "category": "Pharmacology"
+    "category": "Pharmacology",
+    "brick": "Thrombotic Disorders: Foundations and Frameworks"
   },
   {
     "id": "bldnd-036",
     "imageRef": "bldnd-036_bl015_f03.png",
     "label": "Warfarin skin necrosis",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Thrombotic Disorders: Foundations and Frameworks"
   },
   {
     "id": "bldnd-037",
     "imageRef": "bldnd-037_bl015_f04.png",
     "label": "Heparin mechanism",
-    "category": "Pharmacology"
+    "category": "Pharmacology",
+    "brick": "Thrombotic Disorders: Foundations and Frameworks"
   },
   {
     "id": "bldnd-038",
     "imageRef": "bldnd-038_bl016_f01.png",
     "label": "Blood clot",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Hereditary Platelet Disorders"
   },
   {
     "id": "bldnd-039",
     "imageRef": "bldnd-039_bl016_f02.png",
     "label": "Petechiae",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Hereditary Platelet Disorders"
   },
   {
     "id": "bldnd-040",
     "imageRef": "bldnd-040_bl017_f01.png",
     "label": "Petechiae and purpura",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Thrombocytopenia"
   },
   {
     "id": "bldnd-041",
     "imageRef": "bldnd-041_bl017_f02.png",
     "label": "Megakaryocytes",
-    "category": "Histology & Cell Biology"
+    "category": "Histology & Cell Biology",
+    "brick": "Thrombocytopenia"
   },
   {
     "id": "bldnd-042",
     "imageRef": "bldnd-042_bl017_f03.png",
     "label": "Platelet clumping",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Thrombocytopenia"
   },
   {
     "id": "bldnd-043",
     "imageRef": "bldnd-043_bl017_f04.png",
     "label": "Schistocytes",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Thrombocytopenia"
   },
   {
     "id": "bldnd-044",
     "imageRef": "bldnd-044_bl018_f01.png",
     "label": "Purpura",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Immune Thrombocytopenia"
   },
   {
     "id": "bldnd-045",
     "imageRef": "bldnd-045_bl018_f02.png",
     "label": "ITP pathophysiology",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Immune Thrombocytopenia"
   },
   {
     "id": "bldnd-046",
     "imageRef": "bldnd-046_bl019_f01.png",
     "label": "Giant platelets",
-    "category": "Histology & Cell Biology"
+    "category": "Histology & Cell Biology",
+    "brick": "Platelet Assays"
   },
   {
     "id": "bldnd-047",
     "imageRef": "bldnd-047_bl019_f03.png",
     "label": "Platelet receptors",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Platelet Assays"
   },
   {
     "id": "bldnd-048",
     "imageRef": "bldnd-048_bl019_f04.png",
     "label": "Aggregation curves",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Platelet Assays"
   },
   {
     "id": "bldnd-049",
     "imageRef": "bldnd-049_bl020_f01.png",
     "label": "Petechiae",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Thrombotic Microangiopathies"
   },
   {
     "id": "bldnd-050",
     "imageRef": "bldnd-050_bl020_f03.png",
     "label": "ADAMTS13",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Thrombotic Microangiopathies"
   },
   {
     "id": "bldnd-051",
     "imageRef": "bldnd-051_bl020_f04.png",
     "label": "vWF thrombi",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Thrombotic Microangiopathies"
   },
   {
     "id": "bldnd-052",
     "imageRef": "bldnd-052_bl020_f05.png",
     "label": "Schistocytes",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Thrombotic Microangiopathies"
   },
   {
     "id": "bldnd-053",
     "imageRef": "bldnd-053_bl020_f06.png",
     "label": "Schistocytes",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Thrombotic Microangiopathies"
   },
   {
     "id": "bldnd-054",
     "imageRef": "bldnd-054_bl020_f07.png",
     "label": "Schistocyte formation",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Thrombotic Microangiopathies"
   },
   {
     "id": "bldnd-055",
     "imageRef": "bldnd-055_bl021_f01.png",
     "label": "Pentose phosphate pathway",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "RBC Metabolism"
   },
   {
     "id": "bldnd-056",
     "imageRef": "bldnd-056_bl021_f03.png",
     "label": "Chocolate-brown blood",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "RBC Metabolism"
   },
   {
     "id": "bldnd-057",
     "imageRef": "bldnd-057_bl021_f04.png",
     "label": "Methemoglobin reduction",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "RBC Metabolism"
   },
   {
     "id": "bldnd-058",
     "imageRef": "bldnd-058_bl022_f01.png",
     "label": "Hematopoiesis",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Hematopoietic Neoplasms: Foundations and Frameworks"
   },
   {
     "id": "bldnd-059",
     "imageRef": "bldnd-059_bl022_f02.png",
     "label": "WHO classification",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Hematopoietic Neoplasms: Foundations and Frameworks"
   },
   {
     "id": "bldnd-060",
     "imageRef": "bldnd-060_bl022_f04.png",
     "label": "Reed-Sternberg cell",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Hematopoietic Neoplasms: Foundations and Frameworks"
   },
   {
     "id": "bldnd-061",
     "imageRef": "bldnd-061_bl022_f05.png",
     "label": "FFPE blocks",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Hematopoietic Neoplasms: Foundations and Frameworks"
   },
   {
     "id": "bldnd-062",
     "imageRef": "bldnd-062_bl022_f08.png",
     "label": "Immunohistochemistry",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Hematopoietic Neoplasms: Foundations and Frameworks"
   },
   {
     "id": "bldnd-063",
     "imageRef": "bldnd-063_bl022_f11.png",
     "label": "FISH",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Hematopoietic Neoplasms: Foundations and Frameworks"
   },
   {
     "id": "bldnd-064",
     "imageRef": "bldnd-064_bl023_f01.png",
     "label": "Log-cell kill",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Principles of Chemotherapy"
   },
   {
     "id": "bldnd-065",
     "imageRef": "bldnd-065_bl023_f02.png",
     "label": "Fractional cell kill",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Principles of Chemotherapy"
   },
   {
     "id": "bldnd-066",
     "imageRef": "bldnd-066_bl024_f03.png",
     "label": "Bone marrow biopsy",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Acute Lymphoblastic Leukemia/Lymphoma"
   },
   {
     "id": "bldnd-067",
     "imageRef": "bldnd-067_bl024_f05.png",
     "label": "Mediastinal mass",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Acute Lymphoblastic Leukemia/Lymphoma"
   },
   {
     "id": "bldnd-068",
     "imageRef": "bldnd-068_bl025_f02.png",
     "label": "Neutrophil",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Benign Leukocytosis"
   },
   {
     "id": "bldnd-069",
     "imageRef": "bldnd-069_bl025_f05.png",
     "label": "Toxic granulation",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Benign Leukocytosis"
   },
   {
     "id": "bldnd-070",
     "imageRef": "bldnd-070_bl025_f06.png",
     "label": "Cytoplasmic vacuolization",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Benign Leukocytosis"
   },
   {
     "id": "bldnd-071",
     "imageRef": "bldnd-071_bl025_f07.png",
     "label": "Dohle body",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Benign Leukocytosis"
   },
   {
     "id": "bldnd-072",
     "imageRef": "bldnd-072_bl025_f09.png",
     "label": "Reactive lymphocytes",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Benign Leukocytosis"
   },
   {
     "id": "bldnd-073",
     "imageRef": "bldnd-073_bl025_f10.png",
     "label": "Downey cell",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Benign Leukocytosis"
   },
   {
     "id": "bldnd-074",
     "imageRef": "bldnd-074_bl026_f01.png",
     "label": "Hilar lymphadenopathy",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Benign Lymphadenopathies"
   },
   {
     "id": "bldnd-075",
     "imageRef": "bldnd-075_bl026_f02.png",
     "label": "Lymph node",
-    "category": "Histology & Cell Biology"
+    "category": "Histology & Cell Biology",
+    "brick": "Benign Lymphadenopathies"
   },
   {
     "id": "bldnd-076",
     "imageRef": "bldnd-076_bl027_f02.png",
     "label": "Plague",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Y. pestis, F. tularemia, and B. henselae"
   },
   {
     "id": "bldnd-077",
     "imageRef": "bldnd-077_bl027_f03.png",
     "label": "Bubo",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Y. pestis, F. tularemia, and B. henselae"
   },
   {
     "id": "bldnd-078",
     "imageRef": "bldnd-078_bl027_f04.png",
     "label": "Acral necrosis",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Y. pestis, F. tularemia, and B. henselae"
   },
   {
     "id": "bldnd-079",
     "imageRef": "bldnd-079_bl027_f06.png",
     "label": "Bipolar staining",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Y. pestis, F. tularemia, and B. henselae"
   },
   {
     "id": "bldnd-080",
     "imageRef": "bldnd-080_bl027_f07.png",
     "label": "Tularemia",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Y. pestis, F. tularemia, and B. henselae"
   },
   {
     "id": "bldnd-081",
     "imageRef": "bldnd-081_bl027_f08.png",
     "label": "Ulceroglandular tularemia",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Y. pestis, F. tularemia, and B. henselae"
   },
   {
     "id": "bldnd-082",
     "imageRef": "bldnd-082_bl027_f11.png",
     "label": "Cat scratch disease",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Y. pestis, F. tularemia, and B. henselae"
   },
   {
     "id": "bldnd-083",
     "imageRef": "bldnd-083_bl027_f12.png",
     "label": "Bacillary angiomatosis",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Y. pestis, F. tularemia, and B. henselae"
   },
   {
     "id": "bldnd-084",
     "imageRef": "bldnd-084_bl028_f03.png",
     "label": "Conjunctival suffusion",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Leptospirosis and Lymphatic Filariasis"
   },
   {
     "id": "bldnd-085",
     "imageRef": "bldnd-085_bl028_f05.png",
     "label": "Microfilaria",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Leptospirosis and Lymphatic Filariasis"
   },
   {
     "id": "bldnd-086",
     "imageRef": "bldnd-086_bl028_f08.png",
     "label": "Elephantiasis",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Leptospirosis and Lymphatic Filariasis"
   },
   {
     "id": "bldnd-087",
     "imageRef": "bldnd-087_bl028_f09.png",
     "label": "Microfilaria",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Leptospirosis and Lymphatic Filariasis"
   },
   {
     "id": "bldnd-088",
     "imageRef": "bldnd-088_bl028_f10.png",
     "label": "Microfilaria",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Leptospirosis and Lymphatic Filariasis"
   },
   {
     "id": "bldnd-089",
     "imageRef": "bldnd-089_bl029_f02.png",
     "label": "DNA cross-linking",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Alkylating Agents"
   },
   {
     "id": "bldnd-090",
     "imageRef": "bldnd-090_bl029_f03.png",
     "label": "Mechlorethamine",
-    "category": "Pharmacology"
+    "category": "Pharmacology",
+    "brick": "Alkylating Agents"
   },
   {
     "id": "bldnd-091",
     "imageRef": "bldnd-091_bl029_f04.png",
     "label": "Mucositis",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Alkylating Agents"
   },
   {
     "id": "bldnd-092",
     "imageRef": "bldnd-092_bl029_f05.png",
     "label": "Chemotherapy toxicities",
-    "category": "Pharmacology"
+    "category": "Pharmacology",
+    "brick": "Alkylating Agents"
   },
   {
     "id": "bldnd-093",
     "imageRef": "bldnd-093_bl030_f01.png",
     "label": "Cell cycle",
-    "category": "Pharmacology"
+    "category": "Pharmacology",
+    "brick": "Antimetabolite Agents"
   },
   {
     "id": "bldnd-094",
     "imageRef": "bldnd-094_bl030_f02.png",
     "label": "Folate cycle",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Antimetabolite Agents"
   },
   {
     "id": "bldnd-095",
     "imageRef": "bldnd-095_bl031_f01.png",
     "label": "Topoisomerases",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Topoisomerase, Microtubule Inhibitors, and Antitumor Antibiotics"
   },
   {
     "id": "bldnd-096",
     "imageRef": "bldnd-096_bl032_f01.png",
     "label": "Normal RBCs",
-    "category": "Histology & Cell Biology"
+    "category": "Histology & Cell Biology",
+    "brick": "Red Blood Cell Laboratory Tests"
   },
   {
     "id": "bldnd-097",
     "imageRef": "bldnd-097_bl032_f03.png",
     "label": "Hemoglobin electrophoresis",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Red Blood Cell Laboratory Tests"
   },
   {
     "id": "bldnd-098",
     "imageRef": "bldnd-098_bl032_f05.png",
     "label": "Coombs test",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Red Blood Cell Laboratory Tests"
   },
   {
     "id": "bldnd-099",
     "imageRef": "bldnd-099_bl033_f01.png",
     "label": "Smudge cell",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "B-Cell Non-Hodgkin Lymphomas"
   },
   {
     "id": "bldnd-100",
     "imageRef": "bldnd-100_bl033_f02.png",
     "label": "SLL",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "B-Cell Non-Hodgkin Lymphomas"
   },
   {
     "id": "bldnd-101",
     "imageRef": "bldnd-101_bl033_f06.png",
     "label": "MALT lymphoma",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "B-Cell Non-Hodgkin Lymphomas"
   },
   {
     "id": "bldnd-102",
     "imageRef": "bldnd-102_bl034_f03.png",
     "label": "Burkitt lymphoma",
-    "category": "Histology & Cell Biology"
+    "category": "Histology & Cell Biology",
+    "brick": "B-Cell Non-Hodgkin Lymphomas"
   },
   {
     "id": "bldnd-103",
     "imageRef": "bldnd-103_bl034_f04.png",
     "label": "Mantle cell lymphoma",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "B-Cell Non-Hodgkin Lymphomas"
   },
   {
     "id": "bldnd-104",
     "imageRef": "bldnd-104_bl035_f01.png",
     "label": "Mycosis fungoides",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "T-Cell Non-Hodgkin Lymphomas"
   },
   {
     "id": "bldnd-105",
     "imageRef": "bldnd-105_bl035_f03.png",
     "label": "Raised plaque",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "T-Cell Non-Hodgkin Lymphomas"
   },
   {
     "id": "bldnd-106",
     "imageRef": "bldnd-106_bl035_f04.png",
     "label": "Fungoides tumors",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "T-Cell Non-Hodgkin Lymphomas"
   },
   {
     "id": "bldnd-107",
     "imageRef": "bldnd-107_bl035_f05.png",
     "label": "Erythroderma",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "T-Cell Non-Hodgkin Lymphomas"
   },
   {
     "id": "bldnd-108",
     "imageRef": "bldnd-108_bl035_f06.png",
     "label": "Cerebriform cell",
-    "category": "Histology & Cell Biology"
+    "category": "Histology & Cell Biology",
+    "brick": "T-Cell Non-Hodgkin Lymphomas"
   },
   {
     "id": "bldnd-109",
     "imageRef": "bldnd-109_bl035_f07.png",
     "label": "Pautrier microabscess",
-    "category": "Histology & Cell Biology"
+    "category": "Histology & Cell Biology",
+    "brick": "T-Cell Non-Hodgkin Lymphomas"
   },
   {
     "id": "bldnd-110",
     "imageRef": "bldnd-110_bl036_f03.png",
     "label": "Nodular sclerosis",
-    "category": "Histology & Cell Biology"
+    "category": "Histology & Cell Biology",
+    "brick": "Hodgkin Lymphoma"
   },
   {
     "id": "bldnd-111",
     "imageRef": "bldnd-111_bl037_f02.png",
     "label": "Plasma cells",
-    "category": "Histology & Cell Biology"
+    "category": "Histology & Cell Biology",
+    "brick": "Multiple Myeloma and Plasma Cell Disorders"
   },
   {
     "id": "bldnd-112",
     "imageRef": "bldnd-112_bl037_f03.png",
     "label": "Rouleaux",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Multiple Myeloma and Plasma Cell Disorders"
   },
   {
     "id": "bldnd-113",
     "imageRef": "bldnd-113_bl037_f04.png",
     "label": "Lytic lesions",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Multiple Myeloma and Plasma Cell Disorders"
   },
   {
     "id": "bldnd-114",
     "imageRef": "bldnd-114_bl037_f06.png",
     "label": "Immunofixation",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Multiple Myeloma and Plasma Cell Disorders"
   },
   {
     "id": "bldnd-115",
     "imageRef": "bldnd-115_bl039_f01.png",
     "label": "Philadelphia chromosome",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Chronic Myeloid Leukemia"
   },
   {
     "id": "bldnd-116",
     "imageRef": "bldnd-116_bl039_f03.png",
     "label": "Bone marrow",
-    "category": "Histology & Cell Biology"
+    "category": "Histology & Cell Biology",
+    "brick": "Chronic Myeloid Leukemia"
   },
   {
     "id": "bldnd-117",
     "imageRef": "bldnd-117_bl039_f04.png",
     "label": "Tyrosine kinase inhibitor",
-    "category": "Pharmacology"
+    "category": "Pharmacology",
+    "brick": "Chronic Myeloid Leukemia"
   },
   {
     "id": "bldnd-118",
     "imageRef": "bldnd-118_bl040_f02.png",
     "label": "JAK2 signaling",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Polycythemia Vera"
   },
   {
     "id": "bldnd-119",
     "imageRef": "bldnd-119_bl040_f03.png",
     "label": "Peripheral smear",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Polycythemia Vera"
   },
   {
     "id": "bldnd-120",
     "imageRef": "bldnd-120_bl040_f04.png",
     "label": "Splenomegaly",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Polycythemia Vera"
   },
   {
     "id": "bldnd-121",
     "imageRef": "bldnd-121_bl041_f02.png",
     "label": "Bone marrow",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Essential Thrombocythemia"
   },
   {
     "id": "bldnd-122",
     "imageRef": "bldnd-122_bl042_f01.png",
     "label": "Bone marrow fibrosis",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Primary Myelofibrosis"
   },
   {
     "id": "bldnd-123",
     "imageRef": "bldnd-123_bl044_f01.png",
     "label": "MDS classification",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Myelodysplastic Neoplasms"
   },
   {
     "id": "bldnd-124",
     "imageRef": "bldnd-124_bl044_f04.png",
     "label": "Hypogranulated neutrophil",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Myelodysplastic Neoplasms"
   },
   {
     "id": "bldnd-125",
     "imageRef": "bldnd-125_bl044_f05.png",
     "label": "Dysplastic megakaryocytes",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Myelodysplastic Neoplasms"
   },
   {
     "id": "bldnd-126",
     "imageRef": "bldnd-126_bl045_f01.png",
     "label": "Myeloblast",
-    "category": "Histology & Cell Biology"
+    "category": "Histology & Cell Biology",
+    "brick": "Acute Myeloid Leukemia"
   },
   {
     "id": "bldnd-127",
     "imageRef": "bldnd-127_bl046_f01.png",
     "label": "Hematopoiesis",
-    "category": "Histology & Cell Biology"
+    "category": "Histology & Cell Biology",
+    "brick": "Hematopoietic Stem Cell Transplantation"
   },
   {
     "id": "bldnd-128",
     "imageRef": "bldnd-128_bl046_f02.png",
     "label": "Bone marrow aspiration",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Hematopoietic Stem Cell Transplantation"
   },
   {
     "id": "bldnd-129",
     "imageRef": "bldnd-129_bl046_f03.png",
     "label": "Apheresis",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Hematopoietic Stem Cell Transplantation"
   },
   {
     "id": "bldnd-130",
     "imageRef": "bldnd-130_bl046_f06.png",
     "label": "Post-transplant timeline",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Hematopoietic Stem Cell Transplantation"
   },
   {
     "id": "bldnd-131",
     "imageRef": "bldnd-131_bl046_f07.png",
     "label": "Oral mucositis",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Hematopoietic Stem Cell Transplantation"
   },
   {
     "id": "bldnd-132",
     "imageRef": "bldnd-132_bl046_f08.png",
     "label": "Post-transplant complications",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Hematopoietic Stem Cell Transplantation"
   },
   {
     "id": "bldnd-133",
     "imageRef": "bldnd-133_bl047_f01.png",
     "label": "Spleen",
-    "category": "Gross Anatomy"
+    "category": "Gross Anatomy",
+    "brick": "Structure and Function of the Spleen"
   },
   {
     "id": "bldnd-134",
     "imageRef": "bldnd-134_bl047_f02.png",
     "label": "CT abdomen",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Structure and Function of the Spleen"
   },
   {
     "id": "bldnd-135",
     "imageRef": "bldnd-135_bl047_f03.png",
     "label": "Gastrosplenic ligament",
-    "category": "Gross Anatomy"
+    "category": "Gross Anatomy",
+    "brick": "Structure and Function of the Spleen"
   },
   {
     "id": "bldnd-136",
     "imageRef": "bldnd-136_bl047_f04.png",
     "label": "Splenic vasculature",
-    "category": "Gross Anatomy"
+    "category": "Gross Anatomy",
+    "brick": "Structure and Function of the Spleen"
   },
   {
     "id": "bldnd-137",
     "imageRef": "bldnd-137_bl047_f05.png",
     "label": "Splenic circulation",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Structure and Function of the Spleen"
   },
   {
     "id": "bldnd-138",
     "imageRef": "bldnd-138_bl047_f06.png",
     "label": "Splenic sinusoid",
-    "category": "Histology & Cell Biology"
+    "category": "Histology & Cell Biology",
+    "brick": "Structure and Function of the Spleen"
   },
   {
     "id": "bldnd-139",
     "imageRef": "bldnd-139_bl047_f07.png",
     "label": "White pulp",
-    "category": "Histology & Cell Biology"
+    "category": "Histology & Cell Biology",
+    "brick": "Structure and Function of the Spleen"
   },
   {
     "id": "bldnd-140",
     "imageRef": "bldnd-140_bl047_f08.png",
     "label": "Splenic histology",
-    "category": "Histology & Cell Biology"
+    "category": "Histology & Cell Biology",
+    "brick": "Structure and Function of the Spleen"
   },
   {
     "id": "bldnd-141",
     "imageRef": "bldnd-141_bl047_f09.png",
     "label": "PALS",
-    "category": "Histology & Cell Biology"
+    "category": "Histology & Cell Biology",
+    "brick": "Structure and Function of the Spleen"
   },
   {
     "id": "bldnd-142",
     "imageRef": "bldnd-142_bl047_f10.png",
     "label": "Splenic follicle",
-    "category": "Histology & Cell Biology"
+    "category": "Histology & Cell Biology",
+    "brick": "Structure and Function of the Spleen"
   },
   {
     "id": "bldnd-143",
     "imageRef": "bldnd-143_bl047_f11.png",
     "label": "Spleen microanatomy",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Structure and Function of the Spleen"
   },
   {
     "id": "bldnd-144",
     "imageRef": "bldnd-144_bl048_f01.png",
     "label": "Spleen",
-    "category": "Gross Anatomy"
+    "category": "Gross Anatomy",
+    "brick": "Disorders of the Spleen"
   },
   {
     "id": "bldnd-145",
     "imageRef": "bldnd-145_bl048_f02.png",
     "label": "Portal venous system",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Disorders of the Spleen"
   },
   {
     "id": "bldnd-146",
     "imageRef": "bldnd-146_bl048_f05.png",
     "label": "Autoinfarcted spleen",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Disorders of the Spleen"
   },
   {
     "id": "bldnd-147",
     "imageRef": "bldnd-147_bl048_f07.png",
     "label": "Splenic hematoma",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Disorders of the Spleen"
   },
   {
     "id": "bldnd-148",
     "imageRef": "bldnd-148_bl049_f05.png",
     "label": "T-cell selection",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Structure, Function, and Disorders of the Thymus"
   },
   {
     "id": "bldnd-149",
     "imageRef": "bldnd-149_bl049_f06.png",
     "label": "Thymoma",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Structure, Function, and Disorders of the Thymus"
   },
   {
     "id": "bldnd-150",
     "imageRef": "bldnd-150_bl049_f07.png",
     "label": "Thymic mass",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Structure, Function, and Disorders of the Thymus"
   },
   {
     "id": "bldnd-151",
     "imageRef": "bldnd-151_bl049_f08.png",
     "label": "Wiskott-Aldrich",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Structure, Function, and Disorders of the Thymus"
   },
   {
     "id": "bldnd-152",
     "imageRef": "bldnd-152_bl050_f01.png",
     "label": "Emetic pathway",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Antiemetics for Chemotherapy Patients"
   },
   {
     "id": "bldnd-153",
     "imageRef": "bldnd-153_bl051_f02.png",
     "label": "Falciparum gametocyte",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Plasmodium, Babesia, and Brucella spp."
   },
   {
     "id": "bldnd-154",
     "imageRef": "bldnd-154_bl051_f04.png",
     "label": "Malarial parasites",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Plasmodium, Babesia, and Brucella spp."
   },
   {
     "id": "bldnd-155",
     "imageRef": "bldnd-155_bl051_f08.png",
     "label": "Maltese cross",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Plasmodium, Babesia, and Brucella spp."
   },
   {
     "id": "bldnd-156",
     "imageRef": "bldnd-156_bl052_f01.png",
     "label": "Chloroquine",
-    "category": "Pharmacology"
+    "category": "Pharmacology",
+    "brick": "Drugs to Treat Plasmodium, Babesia, and Brucella"
   },
   {
     "id": "bldnd-157",
     "imageRef": "bldnd-157_bl052_f02.png",
     "label": "Atovaquone-proguanil",
-    "category": "Pharmacology"
+    "category": "Pharmacology",
+    "brick": "Drugs to Treat Plasmodium, Babesia, and Brucella"
   },
   {
     "id": "bldnd-158",
     "imageRef": "bldnd-158_bl052_f03.png",
     "label": "Doxycycline",
-    "category": "Pharmacology"
+    "category": "Pharmacology",
+    "brick": "Drugs to Treat Plasmodium, Babesia, and Brucella"
   },
   {
     "id": "bldnd-159",
     "imageRef": "bldnd-159_bl052_f05.png",
     "label": "Primaquine",
-    "category": "Pharmacology"
+    "category": "Pharmacology",
+    "brick": "Drugs to Treat Plasmodium, Babesia, and Brucella"
   },
   {
     "id": "bldnd-160",
     "imageRef": "bldnd-160_bl053_f01.png",
     "label": "Marburg virus",
-    "category": "Histology & Cell Biology"
+    "category": "Histology & Cell Biology",
+    "brick": "Hemorrhagic Viruses"
   },
   {
     "id": "bldnd-161",
     "imageRef": "bldnd-161_bl053_f02.png",
     "label": "Bat",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Hemorrhagic Viruses"
   },
   {
     "id": "bldnd-162",
     "imageRef": "bldnd-162_bl053_f03.png",
     "label": "Monoclonal antibodies",
-    "category": "Pharmacology"
+    "category": "Pharmacology",
+    "brick": "Hemorrhagic Viruses"
   },
   {
     "id": "bldnd-163",
     "imageRef": "bldnd-163_bl053_f04.png",
     "label": "Rodent",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Hemorrhagic Viruses"
   },
   {
     "id": "bldnd-164",
     "imageRef": "bldnd-164_bl054_f01.png",
     "label": "Hepcidin",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Iron-Deficiency Anemia"
   },
   {
     "id": "bldnd-165",
     "imageRef": "bldnd-165_bl054_f02.png",
     "label": "Hypochromic RBCs",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Iron-Deficiency Anemia"
   },
   {
     "id": "bldnd-166",
     "imageRef": "bldnd-166_bl054_f03.png",
     "label": "Conjunctival pallor",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Iron-Deficiency Anemia"
   },
   {
     "id": "bldnd-167",
     "imageRef": "bldnd-167_bl054_f04.png",
     "label": "Koilonychia",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Iron-Deficiency Anemia"
   },
   {
     "id": "bldnd-168",
     "imageRef": "bldnd-168_bl055_f02.png",
     "label": "Hemorrhagic fever viruses",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Arboviruses"
   },
   {
     "id": "bldnd-169",
     "imageRef": "bldnd-169_bl055_f03.png",
     "label": "Yellow fever",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Arboviruses"
   },
   {
     "id": "bldnd-170",
     "imageRef": "bldnd-170_bl055_f04.png",
     "label": "Councilman bodies",
-    "category": "Histology & Cell Biology"
+    "category": "Histology & Cell Biology",
+    "brick": "Arboviruses"
   },
   {
     "id": "bldnd-171",
     "imageRef": "bldnd-171_bl055_f07.png",
     "label": "Congenital Zika",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Arboviruses"
   },
   {
     "id": "bldnd-172",
     "imageRef": "bldnd-172_bl056_f03.png",
     "label": "Frontal bossing",
-    "category": "Pathology"
+    "category": "Pathology",
+    "brick": "Thalassemias"
   },
   {
     "id": "bldnd-173",
     "imageRef": "bldnd-173_bl057_f02.png",
     "label": "Hepcidin",
-    "category": "Physiology & Mechanisms"
+    "category": "Physiology & Mechanisms",
+    "brick": "Anemia of Chronic Disease/Inflammation"
   },
   {
     "id": "bldnd-174",
     "imageRef": "bldnd-174_bl058_f02.png",
     "label": "Pappenheimer bodies",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Sideroblastic Anemia"
   },
   {
     "id": "bldnd-175",
     "imageRef": "bldnd-175_bl059_f01.png",
     "label": "Normal RBCs",
-    "category": "Histology & Cell Biology"
+    "category": "Histology & Cell Biology",
+    "brick": "Red Blood Cell Laboratory Tests"
   },
   {
     "id": "bldnd-176",
     "imageRef": "bldnd-176_bl059_f03.png",
     "label": "Hemoglobin electrophoresis",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Red Blood Cell Laboratory Tests"
   },
   {
     "id": "bldnd-177",
     "imageRef": "bldnd-177_bl059_f04.png",
     "label": "Osmotic fragility",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Red Blood Cell Laboratory Tests"
   },
   {
     "id": "bldnd-178",
     "imageRef": "bldnd-178_bl059_f05.png",
     "label": "Coombs test",
-    "category": "Lab & Diagnostics"
+    "category": "Lab & Diagnostics",
+    "brick": "Red Blood Cell Laboratory Tests"
   }
 ]
